@@ -1,6 +1,6 @@
 ---
-title: "Teaching"
-description: ""
+title: "Impressum"
+author: "Niklas Schneeberger"
 ---
 
 
