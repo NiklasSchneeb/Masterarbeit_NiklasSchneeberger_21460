@@ -60,10 +60,10 @@ params:
           buttons:
             - name: Thesisarbeit
               url: /papers/
-            - name: Quellenverzeichnis
-              url: /courses/
             - name: Tags
               url: /tags/
+            - name: Quellenverzeichnis
+              url: /courses/
             - name: Impressum
               url: /design/
 
