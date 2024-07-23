@@ -20,13 +20,8 @@
     display: none;
 }
 
-.entry-header h1 {
+.entry-header h1, h2 {
     font-size: 1.25rem;
-    line-height: var(--line-height);
-}
-
-.entry-header h2 {
-    font-size: 1.1rem;
     line-height: var(--line-height);
 }
 

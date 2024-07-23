@@ -11,6 +11,6 @@ description: "Name: Niklas Schneeberger
     Erstmentor: Matthias Beyrow
     <sbr>
     Zweitmentorin: Christina Poth
-    <sbr>
+    <br>
     Erklärung an Eides statt."
 ---
