@@ -54,9 +54,6 @@ params:
           enabled: true
           title: Headline
           subtitle: Subheadline
-          imageUrl: "0"
-          imageWidth: 160
-          imageHeight: 160
           buttons:
             - name: Thesisarbeit
               url: /papers/
