@@ -58,16 +58,14 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: /papers/
             - name: Thesisarbeit
-              url: /courses/
+              url: /papers/
             - name: Quellenverzeichnis
+              url: /courses/
+            - name: Impressum
               url: /design/
             - name: Tags
               url: /tags/
-            - name: Impressum
-              url: /archive/
 
     assets:
         disableScrollBarStyle: true
