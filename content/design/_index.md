@@ -1,6 +1,6 @@
 ---
 title: "Impressum"
-describtion: "Name: Niklas Schneeberger
+description: "Name: Niklas Schneeberger
     <sbr>
     Matrikelnummer: 21460
     <sbr>
