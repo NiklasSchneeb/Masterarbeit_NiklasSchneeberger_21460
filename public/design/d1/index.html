@@ -5,11 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Impressum | Wie schön muss Krise aussehen?</title>
+<title>Wie schön muss Krise aussehen?</title>
 <meta name="keywords" content="">
-<meta name="description" content="Niklas Schneeberger">
+<meta name="description" content="Seitentitel">
 <meta name="author" content="Autor">
-<link rel="canonical" href="//localhost:60227/design/">
+<link rel="canonical" href="//localhost:60227/design/d1/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.e374f84a339ef5c898df57b1ebd3fe5185fa8024baad33f9efe95d1fddcb6992.css" integrity="sha256-43T4SjOe9ciY31ex69P&#43;UYX6gCS6rTP57&#43;ldH93LaZI=" rel="preload stylesheet" as="style">
 <link rel="icon" href="//localhost:60227/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="//localhost:60227/favicon-16x16.png">
@@ -17,16 +17,17 @@
 <link rel="apple-touch-icon" href="//localhost:60227/apple-touch-icon.png">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="//localhost:60227/design/index.xml">
-<link rel="alternate" hreflang="en" href="//localhost:60227/design/">
-<meta property="og:title" content="Impressum" />
-<meta property="og:description" content="Niklas Schneeberger" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="//localhost:60227/design/" />
+<link rel="alternate" hreflang="en" href="//localhost:60227/design/d1/">
+<meta property="og:title" content="" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="//localhost:60227/design/d1/" /><meta property="article:section" content="design" />
+
+
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Impressum"/>
-<meta name="twitter:description" content="Niklas Schneeberger"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content=""/>
 
 
 <script type="application/ld+json">
@@ -39,8 +40,47 @@
       "position":  1 ,
       "name": "Impressum",
       "item": "//localhost:60227/design/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "",
+      "item": "//localhost:60227/design/d1/"
     }
   ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "",
+  "name": "",
+  "description": "",
+  "keywords": [
+    
+  ],
+  "articleBody": "",
+  "wordCount" : "0",
+  "inLanguage": "en",
+  "datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "Autor"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "//localhost:60227/design/d1/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Wie schön muss Krise aussehen?",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "//localhost:60227/favicon.ico"
+    }
+  }
 }
 </script>
 
@@ -74,7 +114,7 @@
 
 </head>
 
-<body class="list" id="top">
+<body class="" id="top">
 
 <header class="header">
     <nav class="nav">
@@ -109,18 +149,31 @@
             </li>
             <li>
                 <a href="//localhost:60227/design/">
-                    <span class="active">Impressum</span>
+                    <span>Impressum</span>
                 </a>
             </li>
         </ul>
     </nav>
 </header>
 
-    <main class="main"> 
-<header class="page-header">
-  <h1>
-  </h1>
-</header>
+    <main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      
+    </h1>
+    <div class="post-meta">Autor
+
+</div>
+  </header> 
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
     </main>
     
 
@@ -152,6 +205,53 @@
         });
     });
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script>
 </body>
 </html>
