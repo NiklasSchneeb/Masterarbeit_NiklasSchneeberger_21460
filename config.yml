@@ -54,7 +54,7 @@ params:
           enabled: true
           title: Headline
           subtitle: Subheadline
-          imageUrl: -
+          imageUrl: "0"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -75,7 +75,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: Tabtext
+      text: Zurück-Text
       icon: /favicon.ico
       iconHeight: 18
 
