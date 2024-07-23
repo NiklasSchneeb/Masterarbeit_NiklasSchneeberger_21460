@@ -17,8 +17,8 @@
     --entry: rgb(255, 255, 255); /*background*/
     --theme: rgb(255, 255, 255);
 /*Custom variables*/
-    --yellow: #e4f0ac; /*links*/
-    --grayyellow: #f1f4e1; /*hovered buttons*/
+    --purple: #6e55c3; /*links*/
+    --graypurple: #e5e1f4; /*hovered buttons*/
     --gray: rgb(165, 165, 165); /*labels*/
     --archive: rgb(200, 200, 200); /*archive lines*/
     --semibold: 500;
