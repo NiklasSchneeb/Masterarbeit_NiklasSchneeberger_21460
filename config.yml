@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Wie schön muss Krise aussehen?
-          subtitle: Ein gestalterischer Blick auf die Optimierung im Katastrophenschutz
+          subtitle: Ein gestalterischer **Blick** auf die Optimierung im Katastrophenschutz
           text: Fließtext
           buttons:
             - name: Thesisarbeit
