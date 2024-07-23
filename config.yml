@@ -1,4 +1,4 @@
-title: Titel
+title: Wie schön muss Krise aussehen?
 paginate: 20
 theme: PaperMod
 
@@ -52,7 +52,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Headline
+          title: Wie schön muss Krise aussehen? 
+          Ein gestalterischer Blick auf die Optimierung im Katastrophenschutz
           subtitle: Subheadline
           buttons:
             - name: Thesisarbeit
