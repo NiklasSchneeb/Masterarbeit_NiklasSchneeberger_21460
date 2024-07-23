@@ -10,7 +10,7 @@ taxonomies:
 
 menu:
     main:
-        - name: Wie schön muss Krise aussehen?
+        - name: Startseite
           url: /config/
           weight: 1
         - name: Thesisarbeit
