@@ -62,10 +62,10 @@ params:
               url: /papers/
             - name: Quellenverzeichnis
               url: /courses/
-            - name: Impressum
-              url: /design/
             - name: Tags
               url: /tags/
+            - name: Impressum
+              url: /design/
 
     assets:
         disableScrollBarStyle: true
