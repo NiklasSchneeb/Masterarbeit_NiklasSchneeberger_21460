@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: "Wie schön muss Krise aussehen?
-          <br><br>
+          <wbr><wbr>
           Ein gestalterischer **Blick** auf die Optimierung im Katastrophenschutz"
           subtitle: Fließtext
           text: Fließtext
