@@ -77,7 +77,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: Startseite
+      text: Zurück zur Startseite
       icon: /favicon.ico
       iconHeight: 18
 
