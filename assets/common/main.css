@@ -10,10 +10,6 @@
     font-size: 1.6rem;
 }
 
-.page-header h2 {
-    font-size: 1.2rem;
-}
-
 .pagination {
     display: flex;
 }
@@ -42,7 +38,7 @@
 }
 
 .social-icons a:hover {
-    color: var(--yellow);
+    color: var(--purple);
 }
 
 code {
@@ -67,9 +63,9 @@ pre {
     top: 4px;
     right: 4px;
     color: var(--secondary);
-    background: rgba(239, 241, 177, 0.9);
+    background: rgba(229, 225, 244, 0.9);
     border-radius: 4px;
-    border: 1px solid var(--yellow);
+    border: 1px solid var(--purple);
     padding: 1px 5px;
     font-size: var(--footer-size);
     user-select: none;

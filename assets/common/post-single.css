@@ -44,6 +44,11 @@
     font-size: 1.85rem;
 }
 
+.post-content h2 {
+    margin: 32px auto 24px;
+    font-size: 1.5rem;
+}
+
 .post-content h3 {
     font-size: 1.2rem;    
 }
@@ -70,7 +75,7 @@
 .post-content a,
 .post-meta a,
 .toc a:hover {
-    box-shadow: 0 2px 0 var(--yellow);
+    box-shadow: 0 2px 0 var(--purple);
     color: currentColor; 
 }
 
