@@ -1,10 +1,6 @@
 ---
 title: "Impressum"
-
-## Impressum
-
-describtion:"
-Name: Niklas Schneeberger
+describtion: "Name: Niklas Schneeberger
 Matrikelnummer: 21460
 Wohnort: Hönower Str. 12
 10218 Berlin
