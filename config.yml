@@ -10,11 +10,11 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: /papers/
+        - name: Startseite
+          url: /config/
           weight: 1
-        - name: Courses
-          url: /courses/
+        - name: Thesisarbeit
+          url: /papers/
           weight: 2
         - name: Tags
           url: /tags/
