@@ -1,10 +1,10 @@
 ---
 title: "Impressum"
 author: ""
-
+---
 ## Impressum
 
-"Name: Niklas Schneeberger
+Name: Niklas Schneeberger
 Matrikelnummer: 21460
 Wohnort: Hönower Str. 12
 10218 Berlin
@@ -12,5 +12,5 @@ Wohnort: Hönower Str. 12
 Erstmentor: Matthias Beyrow
 Zweitmentorin: Christina Poth
 <br><br>
-Erklärung an Eides statt."
+Erklärung an Eides statt.
 ---
