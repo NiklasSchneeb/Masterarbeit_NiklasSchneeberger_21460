@@ -60,9 +60,9 @@ params:
           buttons:
             - name: Papers
               url: /papers/
-            - name: Courses
+            - name: Thesisarbeit
               url: /courses/
-            - name: Design
+            - name: Quellenverzeichnis
               url: /design/
             - name: Tags
               url: /tags/
