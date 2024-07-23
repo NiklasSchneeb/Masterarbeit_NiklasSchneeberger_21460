@@ -81,7 +81,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: xcode 
+        style: autumn 
     tableOfContents:
         endLevel: 2
         ordered: false
