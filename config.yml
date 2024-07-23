@@ -11,16 +11,16 @@ taxonomies:
 menu:
     main:
         - name: Startseite
-          url: /config/
+          url: /Startseite/
           weight: 1
         - name: Thesisarbeit
-          url: /papers/
+          url: /Thesisarbeit/
           weight: 2
         - name: Tags
-          url: /tags/
+          url: /Tags/
           weight: 3        
         - name: Quellenverzeichnis
-          url: /courses/
+          url: /Quellenverzeichnis/
           weight: 4
         - name: Impressum
           url: /design/
