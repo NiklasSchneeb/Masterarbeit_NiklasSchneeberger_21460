@@ -4,8 +4,6 @@ description: ""
 ---
 ­­­ 
 
-````
-"""
 Fachhochschule Potsdam  
 Kiepenheuerallee 5  
 14469 Potsdam
@@ -21,5 +19,3 @@ Hönower Str. 12
 Betreuung  
 Prof. Matthias Beyrow  
 Prof. Christina Poth
-"""
-```
