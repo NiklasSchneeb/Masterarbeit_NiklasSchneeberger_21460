@@ -77,8 +77,8 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: Startseite
-      icon: /favicon.ico
+      text: 
+      icon: /favicon.ico/
       iconHeight: 18
 
 markup:
