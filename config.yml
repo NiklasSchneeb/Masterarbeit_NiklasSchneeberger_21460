@@ -76,9 +76,6 @@ params:
     cover:
         hiddenInList: true
         hiddenInSingle: true
-    label:
-      icon: /favicon.ico/
-      iconHeight: 18
 
 markup:
     goldmark:
