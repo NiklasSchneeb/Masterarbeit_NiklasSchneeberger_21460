@@ -16,6 +16,6 @@
 
 .terms-tags a:hover {
     background: var(--blue);
-    border: 1px solid var(--purple);
+    border: 1px solid var(--blue);
 }
 
