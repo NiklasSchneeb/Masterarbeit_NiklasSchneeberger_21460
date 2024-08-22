@@ -1,9 +1,8 @@
 ---
 title: "Impressum"
-description: "	"
+description: ""
 ---
-­	
-
+<br><br>
 Fachhochschule Potsdam  
 Kiepenheuerallee 5  
 14469 Potsdam
