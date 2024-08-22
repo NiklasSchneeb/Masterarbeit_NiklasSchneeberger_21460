@@ -44,7 +44,7 @@
 }
 
 .button:hover {
-    background: var(--graypurple);
+    background: var(--grayblue);
     border: 1px solid var(--purple);
 
 }
