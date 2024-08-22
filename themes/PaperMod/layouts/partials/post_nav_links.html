@@ -3,12 +3,12 @@
 <nav class="paginav">
   {{- with $pages.Next . }}
   <a class="prev" href="{{ .Permalink }}">
-    <span>«    {{- .Name -}}</span>
+    <span>« {{- .Name -}}</span>
   </a>
   {{- end }}
   {{- with $pages.Prev . }}
   <a class="next" href="{{ .Permalink }}">
-    <span>{{- .Name -}}    »</span>
+    <span>{{- .Name -}} »</span>
   </a>
   {{- end }}
 </nav>
