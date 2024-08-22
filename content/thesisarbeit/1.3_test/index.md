@@ -1,5 +1,5 @@
 ---
-title: "Was ist eine Katastrophe 3?"
+title: "Was ist eine Katastrophe 3 ?"
 tags: ["test1","test2"]
 ---
 Unter den Begriff Katastrophe fallen eine Vielzahl von Naturkatastrophen
