@@ -51,7 +51,7 @@ vor Kriegen, Konflikten oder Verfolgungen. Einen signifikanten
 Einfluss hat dabei der Angriffskrieg Russlands auf die Ukraine.
 Seit Beginn des Krieges Anfang 2021 bis zum Zeitraum Mitte
 2022 wurden bereits mehr als 6,3 Millionen aus ihren Heimatorten
-vertrieben und mussten die Flucht aufnehmen. 5 Die Zahl der
+vertrieben und mussten die Flucht aufnehmen. Die Zahl der
 Menschen, die durch Naturkatastrophen und Hunger ihre Lebensgrundlage
 verloren haben und daher die Flucht antreten müssen,
 wird dabei noch nicht mitgerechnet. Die Endgültige Zahl der
