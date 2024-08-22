@@ -1,4 +1,4 @@
 ---
-title: "Courses"
+title: "Quellenverzeichnis"
 author: "Niklas Schneeberger"
 ---
