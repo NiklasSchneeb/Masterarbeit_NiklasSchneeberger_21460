@@ -2,7 +2,7 @@
 title: "Impressum"
 description: ""
 ---
-­­­ 
+­
 
 Fachhochschule Potsdam  
 Kiepenheuerallee 5  
