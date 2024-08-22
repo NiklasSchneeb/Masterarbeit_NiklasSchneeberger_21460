@@ -14,7 +14,7 @@ menu:
           url: /config/
           weight: 1
         - name: Thesisarbeit
-          url: /papers/
+          url: /thesisarbeit/
           weight: 2
         - name: Tags
           url: /tags/
@@ -63,7 +63,7 @@ params:
           text: Fließtext
           buttons:
             - name: Thesisarbeit
-              url: /papers/
+              url: /thesisarbeit/
             - name: Tags
               url: /tags/
             - name: Quellenverzeichnis
