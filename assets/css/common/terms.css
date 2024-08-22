@@ -15,7 +15,7 @@
 }
 
 .terms-tags a:hover {
-    background: var(--graypurple);
+    background: var(--blue);
     border: 1px solid var(--purple);
 }
 
