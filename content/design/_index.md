@@ -2,13 +2,29 @@
 title: "Impressum"
 description: ""
 ---
+Fachhochschule Potsdam
+
+Kiepenheuerallee 5
+
+14469 Potsdam
+
+
+Masterarbeit
+
+Fachbereich Design
+
+Sommersemester 2024
+
+
 Niklas Schneeberger
-dsdaddd
 
-dadadada
-dadadad
-sfwfwf
-wfwfwf
+Hönower Str. 12
 
-wfwfw
-wfwfwf
+10318 Berlin
+
+
+Betreuung
+
+Prof. Matthias Beyrow
+
+Prof. Christina Poth
