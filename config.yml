@@ -20,10 +20,10 @@ menu:
           url: /tags/
           weight: 3        
         - name: Quellenverzeichnis
-          url: /courses/
+          url: /quellenverzeichnis/
           weight: 4
         - name: Impressum
-          url: /design/
+          url: /imressum/
           weight: 5
 
 params:
@@ -42,7 +42,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["thesisarbeit","courses","design"]
+    MainSections: ["thesisarbeit","quellenverzeichnis","impressum"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -67,9 +67,9 @@ params:
             - name: Tags
               url: /tags/
             - name: Quellenverzeichnis
-              url: /courses/
+              url: /quellenverzeichnis/
             - name: Impressum
-              url: /design/
+              url: /impressum/
 
     assets:
         disableScrollBarStyle: true
