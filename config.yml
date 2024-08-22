@@ -77,7 +77,6 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: 
       icon: /favicon.ico/
       iconHeight: 18
 
