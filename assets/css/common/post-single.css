@@ -1,3 +1,6 @@
+body{
+    background-color: var(--code-bg);
+}
 .page-header,
 .post-header {
     margin: 24px auto var(--content-gap) auto;
@@ -13,9 +16,7 @@
     margin-bottom: 5px;
 }
 
-.post-meta{ 
-    background-color: var(--code-bg);
-}
+.post-meta,
 .breadcrumbs {
     color: var(--secondary);
     font-size: var(--meta-size);

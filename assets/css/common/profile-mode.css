@@ -33,7 +33,6 @@
 
 .button {
     background: var(--entry);
-    border: 1px solid var(--border);
     border-radius: var(--radius);
     margin: 6px 12px 6px 0px;
     padding: 10px;
