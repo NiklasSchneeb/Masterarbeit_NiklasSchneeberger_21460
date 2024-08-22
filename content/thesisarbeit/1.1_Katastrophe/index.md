@@ -1,6 +1,7 @@
 ---
 title: "Was ist eine Katastrophe?"
 tags: ["test1","test2"]
+ShowPostNavLinks: true
 ---
 Unter den Begriff Katastrophe fallen eine Vielzahl von Naturkatastrophen
 wie etwa Erdbeben, Dürren, Überschwemmungen,
