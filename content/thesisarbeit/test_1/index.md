@@ -1,7 +1,10 @@
 ---
-title: "Test 1 lol"
+title: "Was ist eine Katastrophe?"
 tags: ["test1","test2"]
-description: "blalalalal"
-summery: "dumdumdum"
+summery: "Unter den Begriff Katastrophe fallen eine Vielzahl von Naturkatastrophen
+wie etwa Erdbeben, Dürren, Überschwemmungen,
+Sturmfluten oder Felsstürze. Extreme Naturereignisse sind
+vielfältig und treten oftmals spontan und somit ohne lange
+Vorbereitungszeit für die Bevölkerung auf."
 ---
 hallo
