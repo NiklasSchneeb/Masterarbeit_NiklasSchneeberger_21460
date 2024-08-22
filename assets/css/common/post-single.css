@@ -28,7 +28,6 @@
 
 .post-content {
     color: var(--content);
-    background-color: var(--code-bg);
     line-height: var(--line-height);
     font-size: var(--content-size);
 }
