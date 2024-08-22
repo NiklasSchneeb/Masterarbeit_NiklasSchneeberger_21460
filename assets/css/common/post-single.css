@@ -13,7 +13,9 @@
     margin-bottom: 5px;
 }
 
-.post-meta,
+.post-meta{ 
+    background-color: var(--code-bg);
+}
 .breadcrumbs {
     color: var(--secondary);
     font-size: var(--meta-size);
