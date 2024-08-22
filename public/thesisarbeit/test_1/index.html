@@ -5,11 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Thesisarbeit | Wie schön muss Krise aussehen?</title>
-<meta name="keywords" content="">
-<meta name="description" content="Thesisarbeit - Wie schön muss Krise aussehen?">
-<meta name="author" content="Niklas Schneeberger">
-<link rel="canonical" href="//localhost:1313/thesisarbeit/">
+<title>Test 1 lol | Wie schön muss Krise aussehen?</title>
+<meta name="keywords" content="test1, test2">
+<meta name="description" content="blalalalal">
+<meta name="author" content="Autor">
+<link rel="canonical" href="//localhost:1313/thesisarbeit/test_1/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.421f71a5c0e4fc4079c2c10a86d2cf78625a74a32be2ef1e3b53d7c10ecf1f5c.css" integrity="sha256-Qh9xpcDk/EB5wsEKhtLPeGJadKMr4u8eO1PXwQ7PH1w=" rel="preload stylesheet" as="style">
 <link rel="icon" href="//localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="//localhost:1313/favicon-16x16.png">
@@ -18,8 +18,7 @@
 <link rel="mask-icon" href="//localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="//localhost:1313/thesisarbeit/index.xml">
-<link rel="alternate" hreflang="en" href="//localhost:1313/thesisarbeit/">
+<link rel="alternate" hreflang="en" href="//localhost:1313/thesisarbeit/test_1/">
 <noscript>
     <style>
         #theme-toggle,
@@ -32,7 +31,7 @@
     <link rel="stylesheet" href="https://use.typekit.net/czi6ums.css">
 </head>
 
-<body class="list" id="top">
+<body class="" id="top">
 
 <header class="header">
     <nav class="nav">
@@ -49,7 +48,7 @@
             </li>
             <li>
                 <a href="//localhost:1313/thesisarbeit/" title="Thesisarbeit">
-                    <span class="active">Thesisarbeit</span>
+                    <span>Thesisarbeit</span>
                 </a>
             </li>
             <li>
@@ -70,23 +69,31 @@
         </ul>
     </nav>
 </header>
-<main class="main"> 
-<header class="page-header">
-  <h1>
-    Thesisarbeit
-  </h1>
-</header>
+<main class="main">
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Test 1 lol
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>hallo</p>
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Test 1 lol
+    </h1>
+    <div class="post-description">
+      blalalalal
+    </div>
+    <div class="post-meta">Autor
+
+</div>
+  </header> 
+  <div class="post-content"><p>hallo</p>
+
   </div>
-  <footer class="entry-footer">Autor</footer>
-  <a class="entry-link" aria-label="post link to Test 1 lol" href="//localhost:1313/thesisarbeit/test_1/"></a>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="//localhost:1313/tags/test1/">test1</a></li>
+      <li><a href="//localhost:1313/tags/test2/">test2</a></li>
+    </ul>
+  </footer>
 </article>
     </main>
     
@@ -119,6 +126,53 @@
         });
     });
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script>
 </body>
 

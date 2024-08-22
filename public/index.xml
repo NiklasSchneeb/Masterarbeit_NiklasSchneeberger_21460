@@ -7,5 +7,12 @@
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test 1 lol</title>
+      <link>//localhost:1313/thesisarbeit/test_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/thesisarbeit/test_1/</guid>
+      <description>blalalalal</description>
+    </item>
   </channel>
 </rss>
