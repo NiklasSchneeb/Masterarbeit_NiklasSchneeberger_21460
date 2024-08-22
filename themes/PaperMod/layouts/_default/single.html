@@ -29,15 +29,6 @@
     {{- end }}
   </header>
 
-  <nav class="=(pagination)">
-    {{ with .NextPage }}
-    <a href="{{ .Permalink }}" class="next-page" title="Zurück">&larr; Zurück</a>
-    {{end}}
-    {{ with .PrevPage }}
-      <a href="{{ .Permalink }}" class="prev-page" title="Weiter">&larr; Weiter</a>
-    {{end}}
-  </nav>
-
   {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
   {{- if (.Param "ShowToc") }}
