@@ -1,4 +1,5 @@
 ---
 title: "Impressum"
-description: "Niklas Schneeberger" <br> "hallo"
+description: "Niklas Schneeberger"
+description: "hallo"
 ---
