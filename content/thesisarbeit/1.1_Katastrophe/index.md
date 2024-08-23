@@ -3,6 +3,22 @@ title: "Was ist eine Katastrophe?"
 tags: ["test1","test2"]
 ShowPostNavLinks: true
 ---
+>>
+„Ein Geschehen, bei dem Leben oder
+Gesundheit einer Vielzahl von Menschen
+oder die natürlichen Lebensgrundlagen
+oder bedeutende Sachwerte in so ungewöhnlichem
+Ausmaß gefährdet oder
+geschädigt werden, dass die Gefahr nur
+abgewehrt oder die Störung nur unterbunden
+und beseitigt werden kann, wenn
+die im Katastrophenschutz mitwirkenden
+Behörden, Organisationen und Einrichtungen
+unter einheitlicher Führung und Leitung
+durch die Katastrophenschutzbehörde zur
+Gefahrenabwehr tätig werden.“
+
+
 Unter den Begriff Katastrophe fallen eine Vielzahl von Naturkatastrophen
 wie etwa Erdbeben, Dürren, Überschwemmungen,
 Sturmfluten oder Felsstürze. Extreme Naturereignisse sind
