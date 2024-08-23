@@ -11,7 +11,7 @@ taxonomies:
 menu:
     main:
         - name: Startseite
-          url: /config/
+          url: /thesisarbeit/
           weight: 1
         - name: Thesisarbeit
           url: /thesisarbeit/
@@ -27,7 +27,7 @@ menu:
           weight: 5
 
 params:
-    description: "Seitentitel"
+    description: "Startseite"
     author: Autor
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January  2006"

@@ -3,8 +3,9 @@ title: "Was ist eine Katastrophe?"
 tags: ["test1","test2"]
 ShowPostNavLinks: true
 ---
->>
-„Ein Geschehen, bei dem Leben oder
+>
+>
+> „Ein Geschehen, bei dem Leben oder
 Gesundheit einer Vielzahl von Menschen
 oder die natürlichen Lebensgrundlagen
 oder bedeutende Sachwerte in so ungewöhnlichem
