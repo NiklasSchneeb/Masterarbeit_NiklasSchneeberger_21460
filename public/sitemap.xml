@@ -2,7 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/thesisarbeit/1.2_test/</loc>
+  </url><url>
+    <loc>//localhost:1313/thesisarbeit/1.3_lol/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/braunb%C3%A4r/</loc>
+  </url><url>
     <loc>//localhost:1313/impressum/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/kot/</loc>
   </url><url>
     <loc>//localhost:1313/quellenverzeichnis/</loc>
   </url><url>
@@ -13,10 +21,6 @@
     <loc>//localhost:1313/tags/test2/</loc>
   </url><url>
     <loc>//localhost:1313/thesisarbeit/</loc>
-  </url><url>
-    <loc>//localhost:1313/thesisarbeit/1.2_test/</loc>
-  </url><url>
-    <loc>//localhost:1313/thesisarbeit/1.3_test/</loc>
   </url><url>
     <loc>//localhost:1313/thesisarbeit/1.1_katastrophe/</loc>
   </url><url>

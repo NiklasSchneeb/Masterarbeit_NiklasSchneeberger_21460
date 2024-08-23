@@ -78,3 +78,6 @@ wird dabei noch nicht mitgerechnet. Die Endgültige Zahl der
 Geflüchteten weltweit dürfte somit noch deutlich größer liegen.
 
 ![Bildbeschreibung](G2_Flucht_CMYK.jpg)
+
+
+***
