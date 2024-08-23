@@ -1,4 +1,4 @@
-title: Startseite
+title: Wie schön muss Krise aussehen?
 paginate: 20
 theme: PaperMod
 
@@ -24,7 +24,7 @@ menu:
           weight: 4
 
 params:
-    description: "Startseite"
+    description: "startseite"
     author: Autor
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January  2006"

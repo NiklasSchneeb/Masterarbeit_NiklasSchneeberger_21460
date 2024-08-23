@@ -331,14 +331,16 @@ body{
 .post-tags a {
     display: block;
     padding: 0 10px;
-    color: var(--secondary);
+    color: var(--content);
     font-size: var(--meta-size);
     line-height: 32px;
-    background: var(--code-bg);
+    background: var(--theme);
 }
 
 .post-tags a:hover {
-    background: var(--graypurple);
+    background: var(--orange);
+    color: var(--theme);
+    border: 0px solid var(--orange);
 
 }
 

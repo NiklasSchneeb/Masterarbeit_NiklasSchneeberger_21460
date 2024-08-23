@@ -8,14 +8,15 @@
 .terms-tags a {
     display: block;
     padding: 3px 10px;
-    background: var(--entry);
+    background: var(--theme);
     border-radius: 6px;
-    border: 1px solid var(--border);
+    border: 0px solid var(--border);
     font-size: var(--home-size);
 }
 
 .terms-tags a:hover {
-    background: var(--blue);
-    border: 1px solid var(--blue);
+    background: var(--orange);
+    color: var(--theme);
+    border: 0px solid var(--blue);
 }
 

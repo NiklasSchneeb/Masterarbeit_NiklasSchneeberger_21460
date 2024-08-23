@@ -1,5 +1,6 @@
 ---
 title: "Was ist eine Katastrophe?"
+author: "Krisen und Bevölkerungsschutz"
 tags: ["test1","test2"]
 ShowPostNavLinks: true
 ---
