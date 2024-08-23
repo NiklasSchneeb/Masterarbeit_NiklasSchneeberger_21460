@@ -25,6 +25,9 @@
     color: var(--secondary);
 }
 
+.footer a:hover {
+    border-bottom: 2px solid var(--blue);
+}
 
 .top-link {
     visibility: hidden;
