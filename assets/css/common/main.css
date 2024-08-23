@@ -7,7 +7,9 @@
     padding: var(--gap);
 }
 
-
+.home-page .main{
+    top: -100px;
+}
 
 .page-header h1 {
     font-size: 1.6rem;
