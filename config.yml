@@ -11,7 +11,7 @@ taxonomies:
 menu:
     main:
         - name: Startseite
-          url: /config/
+          url: /localhost.1313/
           weight: 1
         - name: Thesisarbeit
           url: /thesisarbeit/
@@ -55,9 +55,7 @@ params:
           title: "Wie schön muss Krise aussehen?
           <br>
           Ein gestalterischer **Blick** auf die Optimierung im Katastrophenschutz"
-          <br>
-          <br>
-          subtitle: "(nicht final) Gerade in den letzten Jahren hat sich die Notwendigkeit für ein reibungsloses Krisenmanagement gezeigt. Es kann etwa bei der Versorgung von Geflüchteten, beim Umgang mit Pandemien, nach Naturkatastrophen oder in Kriegssituationen Leben retten. Dabei ist eine klare, verständliche Orientierung zwingend notwendig. 
+          subtitle: "<br>(nicht final) Gerade in den letzten Jahren hat sich die Notwendigkeit für ein reibungsloses Krisenmanagement gezeigt. Es kann etwa bei der Versorgung von Geflüchteten, beim Umgang mit Pandemien, nach Naturkatastrophen oder in Kriegssituationen Leben retten. Dabei ist eine klare, verständliche Orientierung zwingend notwendig. 
           <br><br>
           Ich möchte ein barrierearmes Leitsystem erarbeiten, das auf möglichst viele Szenarien anwendbar und in Krisensituationen unkompliziert und schnell einsatzbereit ist.
           <br><br>
