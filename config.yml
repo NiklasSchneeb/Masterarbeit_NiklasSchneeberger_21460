@@ -10,23 +10,25 @@ taxonomies:
 
 menu:
     main:
+        - name: Startseite
+          url: /
+          weight: 1
         - name: Thesisarbeit
           url: /thesisarbeit/
-          weight: 1
+          weight: 2
         - name: Tags
           url: /tags/
-          weight: 2        
+          weight: 3        
         - name: Quellenverzeichnis
           url: /quellenverzeichnis/
-          weight: 3
+          weight: 4
         - name: Impressum
           url: /impressum/
-          weight: 4
+          weight: 5
 
 params:
-    description: "startseite"
+    description: "Beschreibung"
     author: Autor
-    googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January  2006"
     defaultTheme: light
     hideFooter: true
