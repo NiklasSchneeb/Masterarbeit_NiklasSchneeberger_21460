@@ -326,7 +326,6 @@ body{
 .paginav {
     border-radius: var(--radius);
     background: var(--code-bg);
-    border: 1px solid var(--border);
 }
 
 .post-tags a {
@@ -340,7 +339,6 @@ body{
 
 .post-tags a:hover {
     background: var(--graypurple);
-    border: 1px solid var(--purple);
 
 }
 

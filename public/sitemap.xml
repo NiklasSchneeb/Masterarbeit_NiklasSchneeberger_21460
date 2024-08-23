@@ -6,6 +6,8 @@
   </url><url>
     <loc>//localhost:1313/quellenverzeichnis/</loc>
   </url><url>
+    <loc>//localhost:1313/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/</loc>
   </url><url>
     <loc>//localhost:1313/tags/test1/</loc>
@@ -19,7 +21,5 @@
     <loc>//localhost:1313/thesisarbeit/1.3_test/</loc>
   </url><url>
     <loc>//localhost:1313/thesisarbeit/1.1_katastrophe/</loc>
-  </url><url>
-    <loc>//localhost:1313/</loc>
   </url>
 </urlset>

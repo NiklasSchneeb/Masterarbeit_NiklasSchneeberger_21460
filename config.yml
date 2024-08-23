@@ -1,4 +1,4 @@
-title: Wie schön muss Krise aussehen?
+title: Startseite
 paginate: 20
 theme: PaperMod
 
@@ -10,21 +10,18 @@ taxonomies:
 
 menu:
     main:
-        - name: Startseite
-          url: /thesisarbeit/
-          weight: 1
         - name: Thesisarbeit
           url: /thesisarbeit/
-          weight: 2
+          weight: 1
         - name: Tags
           url: /tags/
-          weight: 3        
+          weight: 2        
         - name: Quellenverzeichnis
           url: /quellenverzeichnis/
-          weight: 4
+          weight: 3
         - name: Impressum
-          url: /imressum/
-          weight: 5
+          url: /impressum/
+          weight: 4
 
 params:
     description: "Startseite"
