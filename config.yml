@@ -11,7 +11,7 @@ taxonomies:
 menu:
     main:
         - name: Startseite
-          url: /localhost.1313/
+          url: /config/
           weight: 1
         - name: Thesisarbeit
           url: /thesisarbeit/
