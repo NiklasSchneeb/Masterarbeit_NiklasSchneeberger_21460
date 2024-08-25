@@ -40,6 +40,7 @@ Verpflichtungen aufsucht. Ein positives Leitsystem kann die Angst
 vor Orientierungslosigkeit mindern und das Besuchserlebnis
 deutlich angenehmer gestalten. [^1]
 
+<br>
 <b> Projektphasen eines Leitsystems </b>
 
 Die Umsetzung eines Leit- und Orientierungssystems unterliegt
@@ -131,6 +132,7 @@ auf jeden Einzelfall eingegangen werden. Dennoch werden die
 essentiellen Aspekte, die bei der Umsetzung eines solchen
 Projektes von entscheidender Relevanz sind beschrieben.
 
+<br>
 <b> Einsatz von Farbe </b>
 
 In vielen Fällen sind Farben als visuelles Ausdrucksmittel in Leitund
@@ -174,6 +176,7 @@ starke Reflexionen oder Spiegelungen zu verhindern.
 
 ![Farbe bei Leitsystemen](G28_Farben_RGB.jpg)
 
+<br>
 <b> Einsatz von Schrift </b>
 
 Typografie kann die Erscheinung, den Auftritt und die Ausstrahlung
@@ -239,6 +242,7 @@ als Teil der Gesellschaft wahrgenommen werden.
 
 ![Schrift bei Leitsystemen](G29_Schrift_RGB.jpg)
 
+<br>
 <b> Codierung und Nomenklatur </b>
 
 Eine Codierung ergibt dann Sinn, wenn eine gewisse Komplexität
@@ -270,6 +274,7 @@ auch auf Außenanlagen kann eine Einteilung in unterschiedliche
 Themenbereiche oder Informations- und Leitebenen sinnvoll sein
 und wirkt sich positiv auf die Orientierung aus.
 
+<br>
 <b> Piktogramme </b>
 
 Eine visuelle Information in Form von Bildern kann das Gehirn in
@@ -289,6 +294,7 @@ Piktogramme weitreichend verständlich und ermöglichen gerade
 an kulturellen Orten eine bessere Orientierung. An Flughäfen oder
 Bahnhöfen ist der Einsatz unverzichtbar.
 
+<br>
 <b> Materialwahl </b>
 
 Die richtige Wahl des Materials kann den Eindruck und das Gefühl
@@ -323,6 +329,7 @@ zu testen, ob es für die gewünschte Position unter verschiedenen
 Szenarien geeignet ist. Ein Test an der realen Position ist dazu am
 besten, um auch zufällig auftretende Eventualitäten zu bedenken.
 
+<br>
 <b> Digitale Möglichkeiten </b>
 
 Im Bereich der digitalen Möglichkeiten hat sich in den vergangenen

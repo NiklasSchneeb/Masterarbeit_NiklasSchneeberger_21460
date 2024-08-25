@@ -5,6 +5,7 @@ tags: ["tag1","tag2"]
 ShowPostNavLinks: true
 ---
 ***
+<br>
 <b> Fluchtsysteme </b>
 
 Rettungs- und Fluchtwege sind anthropozentrisch und stellen
@@ -60,30 +61,30 @@ Bei der ISO 7010 wird unter folgenden Sicherheitszeichen
 unterschieden: Rettungszeichen (E), Branschutzzeichen (F),
 Gebotszeichen (M), Verbotszeichen (P) und Warnzeichen (W).
 
-Rettungszeichen sind rechteckig, meist mit einem Richtungspfeil
+**Rettungszeichen** sind rechteckig, meist mit einem Richtungspfeil
 versehen, ihnen ist die Signalfarbe grün zugeordnet und sie tragen
 ein weißes Piktogramm. Durch sie werden Einrichtungen zur
 Rettung oder Fluchtwege kommuniziert.
 
-Brandschutzzeichen sind quadratisch und stehen mit weißen
+**Brandschutzzeichen** sind quadratisch und stehen mit weißen
 Piktogrammen auf rotem Grund. Sie geben Aufschluss über
 Einrichtungen und Geräte, die beim Brandschutz von Bedeutung
 sind.
 
-Gebotszeichen sind rund und verfügen über ein weißes Piktogramm
+**Gebotszeichen** sind rund und verfügen über ein weißes Piktogramm
 auf blauem Grund. Bei ihnen handelt es sich um Aufforderungen,
 die der Sicherheit der Nutzenden dienen.
 
-Verbotszeichen sind ebenfalls rund und haben ein schwarzes
+**Verbotszeichen** sind ebenfalls rund und haben ein schwarzes
 Piktogramm auf weißem Grund. Der rote Balken, der das Zeichen
 durchquert, zeigt das Verbot einer jeweiligen Handlung.
 
-Warnzeichen werden durch ein Dreieck abgebildet. Die Signalfarbe
+**Warnzeichen** werden durch ein Dreieck abgebildet. Die Signalfarbe
 gelb bildet dabei den Hintergrund und das Zeichen wird
 durch ein schwarzes Piktogramm komplettiert. Es weist auf eine
 potenzielle Gefahrenstelle hin. [^1]
 
-Brandschutzzeichen und Rettungszeichen müssen laut der
+**Brandschutzzeichen** und Rettungszeichen müssen laut der
 Technischen Regeln für Arbeitsstätten A1.3 langnachleuchtend
 sein. Auch ohne Zufuhr von Energie müssen sie nach Anregung
 durch Lichtquellen in der Dunkelheit selbständig Leuten, um
@@ -206,14 +207,13 @@ Einfluss Design und Gestaltung auf die Wahrnehmung und
 interkulturelle Verständigung haben können und mit welch
 einfachen Mitteln eine gelungene Lösung erzielt werden kann.
 
-2016 wurde das Projekt bei den European Design
-Awards mit dem 2. Platz in der Kategorie
-„Self-Initiated Projekts“ ausgezeichnet. [^8]
+**2016 wurde das Projekt bei den European Design Awards mit dem 2. Platz in der Kategorie „Self-Initiated Projekts“ ausgezeichnet.** [^8]
 
 ![First Aid Kit](G33_FirstAid_RGB.jpg)[^9]
 ![Piktogramme des First Aid Kit](G33c_FirstAid_RGB.jpg)[^9]
 ![Beispiele First Aid Kit](G33b_FirstAid_RGB.jpg)[^9]
 
+<br>
 <b> LAGeSo – ICC Berlin </b>
 
 Das vorangegangene Projekt der österreichischen Agentur buero

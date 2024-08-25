@@ -31,6 +31,7 @@ welche Rolle Design bisher im Katastrophenschutz spielt
 und wie Design in Zukunft Helfende sowie Betroffene im Ernstfall
 bei der Bewältigung unterstützen kann.
 
+<br>
 <b> Notwendigkeit für das Projekt </b>
 
 Über die Notwendigkeit zur Unterstützung des Bevölkerungsschutzes
@@ -53,6 +54,7 @@ Navigation der Betroffenen bereitgestellt und an diese Aufgaben
 gebunden – Ressourcen, die gerade in betroffenen Gebieten
 an anderer Stelle sinnvoller eingesetzt werden können.
 
+<br>
 <b> Gestaltungsvorhaben </b>
 
 Krisen und Naturkatastrophen sind meist ebenso individuell

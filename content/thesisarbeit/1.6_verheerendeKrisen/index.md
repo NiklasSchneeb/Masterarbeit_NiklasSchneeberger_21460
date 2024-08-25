@@ -39,6 +39,7 @@ Beispielen werden Katastrophen evaluiert und die Gründe für
 die hohen Sach- und Personenschäden ermittelt. Die daraus
 gezogenen Schlüsse dienen der Lösungsansätze des Katastrophenschutzes.
 
+<br>
 <b> Flutkatastrophe 2021 im Ahrtal </b>
 
 Die Flutkatastrophe im Juni 2021 ereignete sich in Teilen Westund
@@ -90,6 +91,7 @@ sind die Arbeiten in den betroffenen Gebieten noch lange nicht
 abgeschlossen. Der Wiederaufbau und die Reparatur der Gebäude
 und Infrastruktur wird wohl noch Jahre bis Jahrzehnte andauern.
 
+<br>
 <b> Gründe der hohen Schäden und Opferzahlen </b>
 
 Beim Hochwasser im Ahrtal am 14. und 15. Juli 2021 starben
@@ -191,6 +193,7 @@ keine Menschen zu Schaden. [^9] Zu diesem Zeitpunkt kam, nur
 wenige Kilometer weiter nördlich, für viele Bewohner.innen an
 der Ahr jede Hilfe zu spät.
 
+<br>
 <b> Elbehochwasser 2002 </b>
 
 Eines der verheerendsten Hochwasser in Deutschland trug sich
@@ -238,6 +241,7 @@ Planung und Umsetzung neuer Flutmaßnahmen ist es zu verdanken,
 dass große Teile des Stadtgebiets verschont werden
 konnten.
 
+<br>
 <b> Gründe der hohen Schäden und Opferzahlen </b>
 
 Durch das Elbehochwasser wurden viele Gebäude, Kultureinrichtungen
@@ -274,6 +278,7 @@ halten. Die Nichtbeachtung des Hochwasserschutzes führt
 unwiderruflich zu einem drastischen Anstieg der Folgen und
 Folgekosten solcher Ereignisse.
 
+<br>
 <b> Orkan Lothar 1999 </b>
 
 Am 26. Dezember 1999 zog Orkan „Lothar“ über Teile Frankreichs,
@@ -320,6 +325,7 @@ von Laubbäumen wird der Boden gestärkt und der Wald ist resistenter
 und diversifizierter als ein reiner Fichtenwald, wie es ihn
 davor oft gegeben hatte. [^14]
 
+<br>
 <b> Gründe der hohen Schäden und Opferzahlen </b>
 
 Am Vorabend des 26.12.1999 gab es bereits Berichte und Aufzeichnungen
@@ -340,6 +346,7 @@ über Medienkanäle an die Bevölkerung zu entsenden. [^18] Eine
 frühe flächendeckende Warnung hätte vermutlich auch hier
 Menschenleben retten und Sachschäden vermeiden können.
 
+<br>
 <b> Hitzesommer 2003 </b>
 
 Was für einige als ein nie endender Sommer beschrieben wurde,
@@ -366,6 +373,7 @@ und 70.000. [^21] Auch die Zahl der Tropennächste, also Nächte in
 denen die Temperatur nicht unter die 20 Grad Marke fällt, gab es
 in Deutschland zahlreiche über einen längeren Zeitraum hinweg.
 
+<br>
 <b> Gründe der hohen Schäden und Opferzahlen </b>
 
 Aus dem Klimastatusbericht von 2003 geht hervor, dass

@@ -62,6 +62,7 @@ Betroffene, Helfende und Außenstehende
 Personen nannten dieses Verhalten fassungslos, unangebracht
 und nicht akzeptabel.
 
+<br>
 <b> Gaffer-Phänomen </b>
 
 Doch nicht nur bei Naturkatastrophen gibt es Gaffer und

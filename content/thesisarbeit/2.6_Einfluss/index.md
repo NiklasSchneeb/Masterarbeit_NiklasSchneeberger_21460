@@ -14,6 +14,7 @@ bei unkalkulierbaren Situationen wie Naturkatastrophen oder
 Flüchtlingsströmen ein weiterer Punkt, der bei der Vorbereitung
 und Planung solcher Systeme zu bedenken ist.
 
+<br>
 <b> Witterung und Lebensdauer </b>
 
 Werden Leitsysteme im Außenraum eingesetzt, ist auf eine
@@ -66,6 +67,7 @@ Umsetzung mit strapazierfähigeren Materialien nachhaltiger
 sein, auch wenn es kostengünstigere aber weniger robuste
 Alternativen gibt. [^1]
 
+<br>
 <b> Modularität </b>
 
 Modularität und modulartiges Zusammenfügen verschiedener
@@ -119,6 +121,7 @@ nötig. Zudem können sich Ziele im Laufe der Aufräumarbeiten
 verschieben oder verlagern, was eine erneute Anpassung der
 Elemente zur Folge haben kann.
 
+<br>
 <b> Improvisation </b>
 
 Gerade bei Spontanereignissen wie Naturkatastrophen aber auch

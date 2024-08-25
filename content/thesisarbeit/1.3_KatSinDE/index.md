@@ -21,6 +21,7 @@ einzelnen Verwaltungen sind eng miteinander abgestimmt, um
 im Ernstfall eine bestmögliche Kommunikation und Bereitstellung
 von Mitteln jeglicher Art zu ermöglichen. [^1]
 
+<br>
 <b> Krisenmanagement </b> 
 
 Um außergewöhnliche Gefahren- oder Schadenlagen abzuwenden,
@@ -34,6 +35,7 @@ von Partner:innen und Kommunikationswegen innerhalb
 Deutschlands, aber auch im Ausland. Das System wird
 kontinuierlich verbessert und angepasst.
 
+<br>
 <b> Unterscheidung zwischen Zivil- und Katastrophenschutz </b>
 
 Kann sich die Bevölkerung nicht selbst helfen und es besteht die

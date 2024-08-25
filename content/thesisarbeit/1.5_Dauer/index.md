@@ -15,6 +15,7 @@ längeren Zeitraum Menschenleben und Existenzen bedroht.
 Auch Kriege und daraus resultierende Fluchtbewegungen sind
 durch ihre Dauer differenzierter zu betrachten.
 
+<br>
 <b> Klimawandel – Brandbeschleuniger für Krisen </b>
 
 Überflutungen in Afrika, Hitzewellen in Amerika und Asien, Flächenbrände

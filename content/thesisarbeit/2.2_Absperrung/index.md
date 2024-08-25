@@ -13,6 +13,7 @@ indes auch zu besonderen Anlässen. Doch wie unterscheiden
 sich die einzelnen Arten voneinander und welche Besonderheiten
 weisen Sperrungen in Krisengebieten und bei Naturkatastrophen auf?
 
+<br>
 <b> Baustellensicherung </b>
 
 Eine der gängigsten Absperrungen sind wohl bei Baustellen zu
@@ -38,6 +39,7 @@ hinweg. [^1]
 ![Straßensperrung](Bild15_Bauzaun.jpg)[^2]
 ![Sichtschutz](Bild17_Bauzaun_Sichtschutz.png)[^3]
 
+<br>
 <b> Sicherung von Unfällen </b>
 
 Liegen Einsatzgebiete im aktiven Verkehrsraum, sprich auf
@@ -94,6 +96,7 @@ des Wachschutzes. [^8]
 
 ![Übersteigschutz](Bild22_Uebersteigschutz.jpg)[^9]
 
+<br>
 <b> Absperrung in Krisengebieten </b>
 
 Die Maßnahmen zur Sperrung von Straßen unterscheidet sich
@@ -156,6 +159,7 @@ häufig missachtet und die Gefahren unterschätzt.
 
 ![](Bild23_Absperrung_Hochwasser.jpg)[^13]
 
+<br>
 <b> Absperr-Warnband </b>
 
 An Orten wie Baustellen, Veranstaltungen, öffentlichen Plätzen
@@ -169,6 +173,7 @@ Bereiche ab oder ermöglicht die Führung von Personen
 durch einen bestimmten Bereich. Dabei unterscheidet man
 zwischen mehreren Varianten des Bandes. [^14]
 
+<br>
 <b> weiß/rot </b>
 
 Das abwechselnd weiß und rot bedruckte Kunststoffband ist das
@@ -182,6 +187,7 @@ Besucher:innen zum Einsatz. Es wird von Polizei und Rettungskräften
 benutzt, kann aber auch von Firmen und Privatpersonen
 zur Gefahrenkennzeichnung eingesetzt werden.
 
+<br>
 <b> gelb/schwarz </b>
 
 Das gelb-schwarz gestreifte Absperrband hat die gleichen
@@ -193,6 +199,7 @@ Kanten, Unebenheiten oder Stufen auf dem Boden, die eine
 anhaltende Gefahr darstellen. Haupteinsatzbereiche sind somit
 hauptsächlich Werkstätten, Lager oder Produktionsbereiche.
 
+<br>
 <b> weiß/grün </b>
 
 Das weiß-grüne Absperrband hat keinen Eintrag in den Arbeitsstättenrichtlinien.
@@ -202,6 +209,7 @@ eine gute Aufmerksamkeit auf sich ziehen, da es in der Regel
 nicht häufig Verwendung findet und somit einen neuen Impuls
 für das Auge bietet.
 
+<br>
 <b> weiß/blau </b>
 
 Neben dem standardmäßigen Absperrband setzt die Polizei, seit

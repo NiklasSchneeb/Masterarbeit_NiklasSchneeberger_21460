@@ -16,6 +16,7 @@ Organisationen, die einen erheblichen Vorschub zur Bekämpfung
 von humanitären Hilfen und der Bewältigung von Katastrophen
 leisten.
 
+<br>
 <b> Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) </b>
 
 Das BBK ist eine Bundesbehörde die der Zuständigkeit des
@@ -34,6 +35,7 @@ Sanitätswesens, des Brandschutzes und des Personentransportes
 unterschieden. Ziel dabei ist die Bestmöglichste Unterstützung
 von Sonderlagen im Katastrophenschutz der Länder. [^1]
 
+<br>
 <b> Technisches Hilfswerk (THW) </b>
 
 Das Technische Hilfswerk fällt unter den Verwaltungsbereich
@@ -47,6 +49,7 @@ etwa Hochwasser oder anderen Naturkatastrophen. Aber auch
 die Beteiligung und Unterstützung von Auslandseinsätzen im
 Auftrag der Bundesrepublik Deutschland sind Aufgabe des THW. [^2]
 
+<br>
 <b> Deutsches Rotes Kreuz (DRK) </b>
 
 Das Deutsche Rote Kreuz, kurz DRK, ist Teil der größten humanitären
@@ -62,6 +65,7 @@ und der ganzen Welt. Weltweit zählt die internationale
 Rotkreuz-, Rothalbmondbewegung 191 Mitgliedsstaaten und ist
 somit die größte humanitäre Organisation der Welt. [^3]
 
+<br>
 <b> Arbeiter-Samariter-Bund (ASB) </b>
 
 Der Arbeiter-Samariter-Bund, kurz ASB, ist eine in ganz
@@ -76,6 +80,7 @@ Integration. Auch im Katastrophenschutz übernimmt der ASB
 als Hilfsorganisation etwa bei der Betreuung von Personen, bei
 der Wasserrettung und der Notfallseelsorge eine wichtige Rolle. [^4]
 
+<br>
 <b> Deutsche Lebens-Rettungs-Gesellschaft DLRG </b>
 
 Die Hauptaufgabe der Deutschen Lebens-Rettungs-Gesellschaft

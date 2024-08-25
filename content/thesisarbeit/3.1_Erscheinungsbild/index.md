@@ -11,6 +11,7 @@ meine vorherigen Analysen konnte ich mehrere Punkte herausarbeiten,
 deren Überarbeitung und Nachbesserung zu Gunsten
 der Betroffenen wären.
 
+<br>
 <b> Signalviolett Auszeichnungsfarbe des Katastrophenschutzes </b>
 
 Ein immer wiederkehrender Punkt meiner Recherche ist die
@@ -51,6 +52,7 @@ begeben.
 
 ![Signalviolett als Primärfarbe](G15_Signalviolett_RGB.jpg)
 
+<br>
 <b> Eine einheitliche Typografische Ausrichtung </b> 
 
 Schrift begegnet uns auf nahezu allen Produkten und vermittelt
@@ -104,6 +106,7 @@ sowie ein umfangreiches Schriftbild aufweisen wie die Open Sans.
 
 ![Open Sans als neue Schrift](G14_OpenSans_RGB.jpg)[^2]
 
+<br>
 <b> Der Einsatz von Piktogrammen im Katastrophenschutz </b>
 
 Um Informationen schnell und einfach zu vermitteln, sind Piktogramme
@@ -171,6 +174,7 @@ in einem andauernden Prozess detailliert begleitet werden.
 
 ![Piktogrammsammlung](G13_Piktogramme_RGB.jpg)[^3]
 
+<br>
 <b> Weitere Gestaltungsmittel </b>
 
 Um die Neuausrichtung des Katastrophenschutzes und dessen

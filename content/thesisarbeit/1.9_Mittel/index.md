@@ -17,6 +17,7 @@ folgenden werden Lösungsansätze vorgestellt, die sich aktuell
 in der Planung oder bereits in Tests unter realen Bedingungen
 befinden.
 
+<br>
 <b> Taktische Zeichen </b>
 
 Als Taktische Zeichen bezeichnet man Symbole, die im Katastrophenschutz
@@ -100,6 +101,7 @@ farblicher Erkennung, findet sich in der Dienstvorschrift 102.
 ![Taktische Zeichen Grundlagen](G7b_TaktischeZeichen_RGB.jpg)[^3]
 ![Taktische Zeichen](G7_TaktischeZeichen_RGB.jpg)[^4]
 
+<br>
 <b> Warn-Apps </b>
 
 Um die Bevölkerung vor nahenden Schadenereignissen zu warnen,
@@ -132,6 +134,7 @@ zudem im europäischen Ausland genutzt werden. [^5]
 
 ![Warn-Apps](G8_WarnApps_RGB.jpg)[^6]
 
+<br>
 <b> Cell-Broadcast </b>
 
 Mit der Einführung des Cell Broadcast-Systems im Februar 2023
@@ -156,6 +159,7 @@ Nutzer:innen keinen Netzempfang haben, sich das Smartphone
 im Flugzeugmodus befindet, der Akku leer ist oder keine SIMKarte
 eingelegt wurde. [^7]
 
+<br>
 <b> Modulares Warnsystem MoWaS </b>
 
 Um die Bevölkerung auf möglichst vielen Wegen erreichen zu
@@ -190,6 +194,7 @@ zwischen Behörden und Betroffenen, die stetig erweitert und
 verbessert wird, damit im Ernstfall möglichst viele Menschen
 vor anstehenden Gefahrenlagen gewarnt werden können.
 
+<br>
 <b> Bundesweiter Warntag </b>
 
 Um die Warnsysteme zu testen, wurde der sogenannte „Bundesweite
@@ -214,6 +219,7 @@ Angaben des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe
 mindestens ein Warnmedium erreichen, was eine durchaus
 zufriedenstellende Statistik bestärkt. [^7]
 
+<br>
 <b> Roboter als mechanische Helfer </b>
 
 Die Sicherheit von Rettungskräften im Katastrophenschutz hat
@@ -251,6 +257,7 @@ ROMATRIS. [^10]
 ![Feldtest Romatris](Bild5_Romatris.jpeg)[^11]
 ![Feldtest Romatris](Bild5c_Romatris.jpg)[^11]
 
+<br>
 <b> Innovative, interkulturelle Entwicklung </b>
 
 Um Helfende bei der Suche und Bergung von Vermissten mit
@@ -301,6 +308,7 @@ zum Einsatz. [^13]
 ![Feldtest Cursor](Bild7_Cursor_Drohne.png)[^14]
 ![Feldtest Cursor](Bild6_Cursor.jpeg)[^14]
 
+<br>
 <b> KI sorgt für Revolution des Hochwasserschutzes </b>
 
 Der Einsatz von Künstlicher Intelligenz (KI) ist aus dem digitalen

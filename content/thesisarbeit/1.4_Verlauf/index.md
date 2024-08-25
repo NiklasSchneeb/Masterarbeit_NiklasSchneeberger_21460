@@ -31,6 +31,7 @@ der Länder in einem zentralen Krisenstab zu bündeln. Um den
 Ablauf einer Katastrophe besser verstehe zu können, wird im
 folgenden eine Krise simuliert.
 
+<br>
 <b> Szenario: Starkregen mit anschließendem Hochwasser </b>
 
 Wird durch den Wetterdienst eine besondere Wettersituation

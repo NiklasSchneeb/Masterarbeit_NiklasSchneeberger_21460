@@ -74,6 +74,7 @@ könnte an zentralen Orten wie dem Marktplatz, vor prägnanten
 Bauwerken wie etwa Kirchen oder Rathäusern, oder auch an
 Kreuzungsstraßen sein, an denen mehrere Wege zusammenführen.
 
+<br>
 <b> Das System </b>
 
 Für die Umsetzung eines solchen Systems steht die Modularität
@@ -97,6 +98,7 @@ verschiedene Aufgabenfelder bedienen. Im Folgenden werde
 ich mehrere meiner Ideen vorstellen und anhand von Szenarien
 erläutern.
 
+<br>
 <b> Entwurf 1 – Korpus mit Würfeln </b>
 
 Als Grundlage des Systems dient ein robuster Korpus. Dieser ist
@@ -269,6 +271,7 @@ welches alle Situationen einer möglichen Navigation darstellt.
 ![Korpus mit Würfeln](G22_Korpus1_RGB.jpg)
 ![Korpus mit Würfeln](G23_Korpus2_RGB.jpg)
 
+<br>
 <b> Entwurf 2 – Tafel und Plättchen </b>
 
 Mein zweites Konzept folgt ebenfalls dem Grundgedanken der
