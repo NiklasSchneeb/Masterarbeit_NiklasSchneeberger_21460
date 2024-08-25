@@ -4,6 +4,13 @@ author: "Lösungsansätze"
 ShowPostNavLinks: true
 ---
 ***
+<i><b><div style="text-indent: 20px;">
+„Kein Lehrbuch und kein Handbuch
+ersetzt die Notwendigkeit, selbst zu
+denken. Und jeder Regelverstoß ist ein
+Schritt in Richtung gute Gestaltung“ [^1]
+</div></i></b>
+
 Der Bevölkerungsschutz in Deutschland ist unumgänglich – keine
 Frage. Doch zeigt sich bei meiner Recherche an vielen Stellen,
 dass die Gefahren von Krisen und Naturkatastrophen sowie die
@@ -42,3 +49,5 @@ Aus diesem Grund habe ich mich dazu entschieden, die konkrete visuelle Ausarbeit
 ist, um das bestmögliche Ergebnis zu erzielen. Es folgen unterschiedliche
 Lösungsansätze und Empfehlungen, zu den Themen visuelles Erscheinungsbild und Leit- und Informationssysteme in Form von Entwürfen, die als Grundlage meines angestrebten
 Projekts im Katastrophenschutz dienen.
+
+[^1]: <font color="grey">[Zitat: Uebele, Andreas: Orientierungssysteme und Signaletik — ein Planungshandbuch für Architekten, Produktgestalter und Kommunikationsdesigner, Hermann Schmidt Verlag, Auflage 1, Mainz, 2006, S. 5 <i> <u> ]()</font></u></i>
