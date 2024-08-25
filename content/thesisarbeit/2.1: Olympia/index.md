@@ -200,7 +200,8 @@ Gestaltung bereits bei der Planungsphase möglicher Maßnahmen
 hilfreich sein, um aufkommende Schwierigkeiten zeitnah erkennen
 und lösen zu können.
 
-***
+
+
 [^1]: <font color="grey">[Zitat: Aicher, Otl: Das Erscheinungsbild der Olympischen Spiele, München 1972, München, 1967, zitiert nach Spieker,
 Elisabeth, Otl Aicher 100, Zeigen, nicht erklären, 2022, <i> <u> https://www.otlaicher.de/beitraege/zeigen-nicht-erklaeren/]()</font></u></i>
 [^2]: <font color="grey">[Vgl. Otl Aicher 100: Zeigen, nicht erklären, 2024, <i> <u> https://www.otlaicher.de/beitraege/zeigen-nicht-erklaeren/]()</font></u></i>
