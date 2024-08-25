@@ -19,3 +19,7 @@ Hönower Str. 12
 Betreuung  
 Prof. Matthias Beyrow  
 Prof. Christina Poth
+
+<br>
+
+[<u>**Eidesstattliche Versicherung**</u>](/250824_EidesstattlicheErklärung.pdf)
