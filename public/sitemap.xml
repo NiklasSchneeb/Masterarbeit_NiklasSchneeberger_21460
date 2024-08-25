@@ -2,27 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/thesisarbeit/1.2_test/</loc>
+    <loc>//localhost:1313/thesisarbeit/0.-vorwort/</loc>
   </url><url>
-    <loc>//localhost:1313/thesisarbeit/1.3_lol/</loc>
+    <loc>//localhost:1313/thesisarbeit/1.1_katastrophe/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/braunb%C3%A4r/</loc>
+    <loc>//localhost:1313/thesisarbeit/1.2_akteure/</loc>
+  </url><url>
+    <loc>//localhost:1313/thesisarbeit/1.3_katsinde/</loc>
+  </url><url>
+    <loc>//localhost:1313/thesisarbeit/1.4_verlauf/</loc>
+  </url><url>
+    <loc>//localhost:1313/thesisarbeit/1.5_dauer/</loc>
+  </url><url>
+    <loc>//localhost:1313/thesisarbeit/1.6_verheerendekrisen/</loc>
+  </url><url>
+    <loc>//localhost:1313/thesisarbeit/1.7_katastrophentourismus/</loc>
+  </url><url>
+    <loc>//localhost:1313/thesisarbeit/1.8_investitionen/</loc>
+  </url><url>
+    <loc>//localhost:1313/thesisarbeit/1.9_mittel/</loc>
+  </url><url>
+    <loc>//localhost:1313/thesisarbeit/3_l%C3%B6sungsans%C3%A4tze/</loc>
+  </url><url>
+    <loc>//localhost:1313/thesisarbeit/3.1_erscheinungsbild/</loc>
+  </url><url>
+    <loc>//localhost:1313/thesisarbeit/3.2_leitsystem/</loc>
+  </url><url>
+    <loc>//localhost:1313/thesisarbeit/4_reflexion/</loc>
   </url><url>
     <loc>//localhost:1313/impressum/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/kot/</loc>
-  </url><url>
     <loc>//localhost:1313/quellenverzeichnis/</loc>
+  </url><url>
+    <loc>//localhost:1313/thesisarbeit/vorlage_test/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/tag1/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/tag2/</loc>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/test1/</loc>
-  </url><url>
-    <loc>//localhost:1313/tags/test2/</loc>
-  </url><url>
     <loc>//localhost:1313/thesisarbeit/</loc>
-  </url><url>
-    <loc>//localhost:1313/thesisarbeit/1.1_katastrophe/</loc>
   </url><url>
     <loc>//localhost:1313/</loc>
   </url>
