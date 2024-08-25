@@ -5,22 +5,27 @@ tags: ["test1","test2"]
 ShowPostNavLinks: true
 ---
 ***
->
->
-> „Ein Geschehen, bei dem Leben oder
-Gesundheit einer Vielzahl von Menschen
-oder die natürlichen Lebensgrundlagen
-oder bedeutende Sachwerte in so ungewöhnlichem
-Ausmaß gefährdet oder
-geschädigt werden, dass die Gefahr nur
-abgewehrt oder die Störung nur unterbunden
+<i><b><div style="text-indent: 20px;">
+„Ein Geschehen, bei dem Leben oder Gesundheit einer Vielzahl von Menschen oder die natürlichen Lebensgrundlagen oder bedeutende Sachwerte in so ungewöhnlichem 
+Ausmaß gefährdet oder geschädigt werden, dass die Gefahr nur abgewehrt oder die Störung nur unterbunden
 und beseitigt werden kann, wenn
 die im Katastrophenschutz mitwirkenden
 Behörden, Organisationen und Einrichtungen
 unter einheitlicher Führung und Leitung
 durch die Katastrophenschutzbehörde zur
 Gefahrenabwehr tätig werden.“
+</div></i></b>
 
+<i><b><P>
+„Ein Geschehen, bei dem Leben oder Gesundheit einer Vielzahl von Menschen oder die natürlichen Lebensgrundlagen oder bedeutende Sachwerte in so ungewöhnlichem 
+Ausmaß gefährdet oder geschädigt werden, dass die Gefahr nur abgewehrt oder die Störung nur unterbunden
+und beseitigt werden kann, wenn
+die im Katastrophenschutz mitwirkenden
+Behörden, Organisationen und Einrichtungen
+unter einheitlicher Führung und Leitung
+durch die Katastrophenschutzbehörde zur
+Gefahrenabwehr tätig werden.“
+</P></i></b>
 
 Unter den Begriff Katastrophe fallen eine Vielzahl von Naturkatastrophen
 wie etwa Erdbeben, Dürren, Überschwemmungen,
@@ -64,7 +69,7 @@ Euro geschätzt und es wird wohl Jahrzehnte dauern bis die
 betroffenen Regionen wieder vollständig hergestellt sind. 
 Auch Fluchtbewegungen in Folge von Kriegen und des Klimawandels
 der leidenden Bevölkerung sind Auswirkungen, die wir
-teilweise schon heute spüren.
+teilweise schon heute spüren. [^1]
 Laut der UNO sind bis Ende 2023 mehr als 117 Millionen gewaltsam
 vertriebene Menschen weltweit auf der Flucht. Diese fliehen
 vor Kriegen, Konflikten oder Verfolgungen. Einen signifikanten
@@ -74,10 +79,11 @@ Seit Beginn des Krieges Anfang 2021 bis zum Zeitraum Mitte
 vertrieben und mussten die Flucht aufnehmen. Die Zahl der
 Menschen, die durch Naturkatastrophen und Hunger ihre Lebensgrundlage
 verloren haben und daher die Flucht antreten müssen,
-wird dabei noch nicht mitgerechnet. Die Endgültige Zahl der
-Geflüchteten weltweit dürfte somit noch deutlich größer liegen.
+wird dabei noch nicht mitgerechnet.
 
-![Bildbeschreibung](G2_Flucht_CMYK.jpg)
+![Bildbeschreibung](G2_Flucht_CMYK.jpg)[^Abb.2]
 
 
 ***
+[^1]: <font color="grey">[leserlich.info: Zeichenbezogene Faktoren – Schriftart, 2024, <i> <u> https://www.leserlich.info/kapitel/zeichen/schriftart.php]()</font></u></i>
+[^Abb.2]: <font color="grey">[Abb.1: <i> <u> https://www.leserlich.info/kapitel/zeichen/schriftart.php]()</font></u></i>
