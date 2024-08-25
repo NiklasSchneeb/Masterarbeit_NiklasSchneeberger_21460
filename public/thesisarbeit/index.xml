@@ -173,15 +173,5 @@ Signalviolett Auszeichnungsfarbe des Katastrophenschutzes Ein immer wiederkehren
       <guid>//localhost:1313/thesisarbeit/4_reflexion/</guid>
       <description>Der Bevölkerungsschutz in Deutschland trägt einen fundamentalen Teil zur Resilienz des Landes bei. Ohne ihn wäre im Ernstfall ein schnelles Eingreifen und eine effektive Bekämpfung der Schäden undenkbar. Bei der Prävention, Organisation, Durchführung und Nachbereitung solcher Ernstfälle sind zahlreiche Institutionen und Akteure beteiligt. Die Koordinierung und das Zusammenspiel der einzelnen Organisationen stellt eine Herausforderung dar, die allerdings durch konkret ausgearbeitete Abläufe und Übungen eine große Beständigkeit erlangt hat. In regelmäßigen Abständen werden neue Methoden in die Zusammenarbeit aufgenommen und bestehende Muster weiter verfeinert und geschärft.</description>
     </item>
-    <item>
-      <title>Seitentitel</title>
-      <link>//localhost:1313/thesisarbeit/vorlage_test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/thesisarbeit/vorlage_test/</guid>
-      <description>Zitat
-Fließtext Quelle 1 2
-Quelle Link&amp;#160;&amp;#x21a9;&amp;#xfe0e;
-Abb.1: Quelle Link&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
-    </item>
   </channel>
 </rss>

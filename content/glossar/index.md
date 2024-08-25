@@ -1,7 +1,8 @@
 ---
 title: "Glossar"
-author: "Nützliche Begrifflichkeiten im Kontext des Bevölkerungsschutzes"
+description: ""
 ---
+
 <b> Bevölkerungsschutz </b>
 
 Der Bevölkerungsschutz ist ein Oberbegriff und beinhaltet
