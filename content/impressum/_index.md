@@ -20,4 +20,5 @@ Prof. Christina Poth
 
 <br>
 
-[<u>**Eidesstattliche Erklärung**</u>](/Masterarbeit_NiklasSchneeberger_21460/250824_EidesstattlicheErklärung.pdf)
+<a href="/Masterarbeit_NiklasSchneeberger_21460/250824_EidesstattlicheErklärung.pdf" download>
+[<u>**Eidesstattliche Erklärung**</u>]()
