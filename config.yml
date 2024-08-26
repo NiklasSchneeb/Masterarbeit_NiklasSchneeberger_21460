@@ -6,30 +6,28 @@ theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-uglyURLs: true
-
 taxonomies:
     tag: tags
 
 menu:
     main:
         - name: Startseite
-          url: /index.html
+          url: /
           weight: 1
         - name: Thesisarbeit
-          url: /thesisarbeit.html
+          url: /thesisarbeit/
           weight: 2
         - name: Tags
-          url: /tags.html
+          url: /tags/
           weight: 3 
         - name: Glossar
-          url: /glossar.html
+          url: /glossar/
           weight: 4       
         - name: Quellenverzeichnis
-          url: /quellenverzeichnis.html
+          url: /quellenverzeichnis/
           weight: 5
         - name: Impressum
-          url: /impressum.html
+          url: /impressum/
           weight: 6
 
 params:

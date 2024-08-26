@@ -2,59 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Wie schön muss Krise aussehen?</title>
-    <link>http://localhost:1313/</link>
+    <link>https://niklasschneeb.github.io/</link>
     <description>Recent content on Wie schön muss Krise aussehen?</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Glossar</title>
-      <link>http://localhost:1313/glossar.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/glossar.html</guid>
-      <description>Nützliche Begrifflichkeiten mit Bezug auf den Bevölkerungsschutz</description>
-    </item>
-    <item>
-      <title>Impressum</title>
-      <link>http://localhost:1313/impressum.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/impressum.html</guid>
-      <description>Fachhochschule Potsdam
-Kiepenheuerallee 5
-14469 Potsdam
-Niklas Schneeberger
-Masterarbeit
-Fachbereich Design
-Sommersemester 2024
-Betreuung
-Prof. Matthias Beyrow
-Prof. Christina Poth
-Eidesstattliche Erklärung</description>
-    </item>
-    <item>
-      <title>Quellenverzeichnis</title>
-      <link>http://localhost:1313/quellenverzeichnis.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/quellenverzeichnis.html</guid>
-      <description>Bundeszentrale für politische Bildung: Naturkatastrophe, 2024, https://www.bpb.de/kurz-knapp/lexika/ das-junge-politik-lexikon/320847/naturkatastrophe/
-Welthungerhilfe: Naturkatastrophen und der Klimawandel, https://www.welthungerhilfe.de/informieren/ themen/klimawandel/naturkatastrophen
-Bundesministerium des Innern und für Heimat: Bericht zur Hochwasserkatastrophe 2021, 2022, https://www. bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/ 2022/abschlussbericht-hochwasserkatastrophe. html
-Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz: Hitze, Dürre, Starkregen: Über 80 Milliarden Euro Schäden durch Extremwetter in Deutschland, 2022, https://www.bmuv.de/ pressemitteilung/hitze-duerre-starkregen-ueber-80-milliarden- euro-schaeden-durch-extremwetter-in-deutschland#:~: text=Die%20Folgekosten%20der%20Sturzfluten% 20und,vereinzelte%20Sturm%2D%20und%20 Hagelereignisse%20verursacht
-UNO Flüchtlingshilfe: Flüchtlingszahlen, 2023, https:// www.uno-fluechtlingshilfe.de/informieren/fluechtlingszahlen
-Bundesamt für Bevölkerungsschutz und Katastrophenhilfe: Zivilschutzfahrzeuge, 2024, https://www.</description>
-    </item>
-    <item>
-      <title>Tags</title>
-      <link>http://localhost:1313/tags.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags.html</guid>
-      <description></description>
-    </item>
+    <atom:link href="https://niklasschneeb.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thesisarbeit</title>
-      <link>http://localhost:1313/thesisarbeit.html</link>
+      <link>https://niklasschneeb.github.io/thesisarbeit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thesisarbeit.html</guid>
+      <guid>https://niklasschneeb.github.io/thesisarbeit/</guid>
       <description></description>
     </item>
   </channel>
