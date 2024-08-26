@@ -79,7 +79,6 @@ params:
               url: /impressum/
 
     assets:
-        disableFingerprinting: true
         disableScrollBarStyle: true
     cover:
         hiddenInList: true
