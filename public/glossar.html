@@ -17,6 +17,7 @@
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/glossar/index.xml">
 <link rel="alternate" hreflang="en" href="http://localhost:1313/glossar.html">
 <noscript>
     <style>
@@ -30,7 +31,7 @@
     <link rel="stylesheet" href="https://use.typekit.net/czi6ums.css">
 </head>
 
-<body class="
+<body class="list
 " id="top">
 
 <header class="header">
@@ -78,26 +79,16 @@
         </ul>
     </nav>
 </header>
-<main class="main">
-
-<article class="post-single">
-  <header class="post-header">
-    
-
-<br><br>
-    <h1 class="post-title entry-hint-parent">
-      Glossar
-    </h1>
-    <div class="post-description">
-      Nützliche Begrifflichkeiten mit Bezug auf den Bevölkerungsschutz
-    </div>
-    <div class="post-meta">Autor
-</div>
-<br>
-    <ul class="post-tags">
-    </ul>
-  </header> 
-  <div class="post-content"><br>
+<main class="main"> 
+<header class="page-header">
+  <h1>
+    Glossar
+  </h1>
+  <div class="post-description">
+    Nützliche Begrifflichkeiten mit Bezug auf den Bevölkerungsschutz
+  </div>
+</header>
+<div class="post-content"><br>
 <b> Bevölkerungsschutz </b>
 <p>Der Bevölkerungsschutz ist ein Oberbegriff und beinhaltet
 alle Aufgaben und Maßnahmen des Bundes, der Länder und
@@ -171,11 +162,7 @@ Deutschland in einem Krieg befinden, so wird der Verteidigungsfall
 ausgerufen. Dieser ist im Grundgesetz geregelt und orientiert sich
 maßgeblich an der Charta der Vereinten Nationen.</p>
 
-  </div>
-
-  <footer class="post-footer">
-  </footer>
-</article>
+</div>
     </main>
     
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
@@ -225,53 +212,6 @@ maßgeblich an der Charta der Vereinten Nationen.</p>
         }
     };
 
-</script>
-<script>
-    document.querySelectorAll('pre > code').forEach((codeblock) => {
-        const container = codeblock.parentNode.parentNode;
-
-        const copybutton = document.createElement('button');
-        copybutton.classList.add('copy-code');
-        copybutton.innerHTML = 'copy';
-
-        function copyingDone() {
-            copybutton.innerHTML = 'copied!';
-            setTimeout(() => {
-                copybutton.innerHTML = 'copy';
-            }, 2000);
-        }
-
-        copybutton.addEventListener('click', (cb) => {
-            if ('clipboard' in navigator) {
-                navigator.clipboard.writeText(codeblock.textContent);
-                copyingDone();
-                return;
-            }
-
-            const range = document.createRange();
-            range.selectNodeContents(codeblock);
-            const selection = window.getSelection();
-            selection.removeAllRanges();
-            selection.addRange(range);
-            try {
-                document.execCommand('copy');
-                copyingDone();
-            } catch (e) { };
-            selection.removeRange(range);
-        });
-
-        if (container.classList.contains("highlight")) {
-            container.appendChild(copybutton);
-        } else if (container.parentNode.firstChild == container) {
-            
-        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
-            
-            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
-        } else {
-            
-            codeblock.parentNode.appendChild(copybutton);
-        }
-    });
 </script>
 </body>
 
