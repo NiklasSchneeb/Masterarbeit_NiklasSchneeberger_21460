@@ -1,4 +1,4 @@
-baseURL: "https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460"
+baseURL: "https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/"
 title: Wie schön muss Krise aussehen?
 paginate: 20
 theme: PaperMod
@@ -68,15 +68,15 @@ params:
           text: Fließtext
           buttons:
             - name: Thesisarbeit
-              url: "/thesisarbeit/"
+              url: "/Masterarbeit_NiklasSchneeberger_21460/thesisarbeit/"
             - name: Tags
-              url: "/tags/"
+              url: "/Masterarbeit_NiklasSchneeberger_21460/tags/"
             - name: Glossar
-              url: "/glossar/"
+              url: "/Masterarbeit_NiklasSchneeberger_21460/glossar/"
             - name: Quellenverzeichnis
-              url: "/quellenverzeichnis/"
+              url: "/Masterarbeit_NiklasSchneeberger_21460/quellenverzeichnis/"
             - name: Impressum
-              url: "/impressum/"
+              url: "/Masterarbeit_NiklasSchneeberger_21460/impressum/"
 
     assets:
         disableScrollBarStyle: true
