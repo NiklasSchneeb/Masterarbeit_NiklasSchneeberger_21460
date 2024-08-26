@@ -9,11 +9,19 @@
     <atom:link href="http://localhost:1313/tags/visuelles-erscheinungsbild/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2.1: Visuelles Erscheinungsbild – Olympische Spiele München 1972</title>
-      <link>http://localhost:1313/thesisarbeit/2_1-olympia.html</link>
+      <link>http://localhost:1313/thesisarbeit/2-1-olympia.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thesisarbeit/2_1-olympia.html</guid>
+      <guid>http://localhost:1313/thesisarbeit/2-1-olympia.html</guid>
       <description>„Nimmt es uns die Welt ab, wenn wir darauf hinweisen, daß das Deutschland von heute ein anderes ist als das Deutschland von damals? Vertrauen gewinnt man nicht durch Worte, sondern durch sichtbare Bezeugungen und gewonnene Sympathie. Es kommt weniger darauf an, zu erklären, daß es ein anderes Deutschland gibt, als es zu zeigen.“ 1
 Die Olympischen Spiele sind seit je her sportliche Großereignisse, welche viele Athlet:innen und Besucher:innen aus der ganzen Welt anziehen.</description>
+    </item>
+    <item>
+      <title>3.1: Ein visuelles Erscheinungsbild für den Katastrophenschutz</title>
+      <link>http://localhost:1313/thesisarbeit/3-1_erscheinungsbild.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thesisarbeit/3-1_erscheinungsbild.html</guid>
+      <description>Um die Sichtbarkeit des Katastrophenschutzes zu stärken, können Ansätze eines neuen visuellen Erscheinungsbildes helfen. Durch meine vorherigen Analysen konnte ich mehrere Punkte herausarbeiten, deren Überarbeitung und Nachbesserung zu Gunsten der Betroffenen wären.
+Signalviolett Auszeichnungsfarbe des Katastrophenschutzes Ein immer wiederkehrender Punkt meiner Recherche ist die Ähnlichkeit von Absperrungen und Warnhinweisen gegenüber herkömmlichen Baumaßnahmen im Stadtraum. Um diesem Effekt entgegenzuwirken und eine gleichwertige Sichtbarkeit wie bei Feuerwehr oder Polizei erzielen zu können, muss eine aussagekräftige und vor allem klar erkennbare visuelle Sprache etabliert werden.</description>
     </item>
   </channel>
 </rss>
