@@ -6,6 +6,8 @@ theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
+uglyURLs: true
+
 taxonomies:
     tag: tags
 
