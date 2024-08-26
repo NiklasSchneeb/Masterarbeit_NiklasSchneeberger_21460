@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Wie schön muss Krise aussehen?</title>
-    <link>https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Wie schön muss Krise aussehen?</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
-    <atom:link href="https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Glossar</title>
-      <link>https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/glossar/</link>
+      <link>http://localhost:1313/glossar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/glossar/</guid>
+      <guid>http://localhost:1313/glossar/</guid>
       <description>Nützliche Begrifflichkeiten mit Bezug auf den Bevölkerungsschutz</description>
     </item>
     <item>
       <title>Impressum</title>
-      <link>https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/impressum/</link>
+      <link>http://localhost:1313/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/impressum/</guid>
+      <guid>http://localhost:1313/impressum/</guid>
       <description>
 Fachhochschule Potsdam
 Kiepenheuerallee 5
@@ -34,9 +34,9 @@ Eidesstattliche Erklärung </description>
     </item>
     <item>
       <title>Quellenverzeichnis</title>
-      <link>https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/quellenverzeichnis/</link>
+      <link>http://localhost:1313/quellenverzeichnis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/quellenverzeichnis/</guid>
+      <guid>http://localhost:1313/quellenverzeichnis/</guid>
       <description>Bundeszentrale für politische Bildung: Naturkatastrophe, 2024, https://www.bpb.de/kurz-knapp/lexika/ das-junge-politik-lexikon/320847/naturkatastrophe/
 Welthungerhilfe: Naturkatastrophen und der Klimawandel, https://www.welthungerhilfe.de/informieren/ themen/klimawandel/naturkatastrophen
 Bundesministerium des Innern und für Heimat: Bericht zur Hochwasserkatastrophe 2021, 2022, https://www. bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/ 2022/abschlussbericht-hochwasserkatastrophe. html
@@ -46,16 +46,16 @@ Bundesamt für Bevölkerungsschutz und Katastrophenhilfe: Zivilschutzfahrzeuge,
     </item>
     <item>
       <title>Tags</title>
-      <link>https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/tags/</link>
+      <link>http://localhost:1313/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/tags/</guid>
+      <guid>http://localhost:1313/tags/</guid>
       <description></description>
     </item>
     <item>
       <title>Thesisarbeit</title>
-      <link>https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/thesisarbeit/</link>
+      <link>http://localhost:1313/thesisarbeit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/thesisarbeit/</guid>
+      <guid>http://localhost:1313/thesisarbeit/</guid>
       <description></description>
     </item>
   </channel>

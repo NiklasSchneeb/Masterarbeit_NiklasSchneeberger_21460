@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/glossar/</loc>
+    <loc>http://localhost:1313/glossar/</loc>
   </url><url>
-    <loc>https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/impressum/</loc>
+    <loc>http://localhost:1313/impressum/</loc>
   </url><url>
-    <loc>https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/quellenverzeichnis/</loc>
+    <loc>http://localhost:1313/quellenverzeichnis/</loc>
   </url><url>
-    <loc>https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/thesisarbeit/</loc>
+    <loc>http://localhost:1313/thesisarbeit/</loc>
   </url><url>
-    <loc>https://niklasschneeb.github.io/Masterarbeit_NiklasSchneeberger_21460/</loc>
+    <loc>http://localhost:1313/</loc>
   </url>
 </urlset>
