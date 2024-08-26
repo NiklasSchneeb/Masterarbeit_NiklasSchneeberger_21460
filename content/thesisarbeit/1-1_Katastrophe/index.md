@@ -81,7 +81,6 @@ Geflüchteten weltweit dürfte somit noch deutlich größer liegen.
 ![Auflistung aller Gefahren](G1_Gefahren_RGB.jpg)[^7]
 ![Anzahl Geflüchteter](G2_Flucht_RGB.jpg)[^8]
 
-***
 [^1]: <font color="grey">[Zitat: Bundesamt für Bevölkerungsschutz und Katastrophenhilfe: Katastrophe, 2024, <i> <u> https://www.bbk.bund.de/SharedDocs/Glossareintraege/DE/K/katastrophe.html]()</font></u></i>
 [^2]: <font color="grey">[Vgl. Bundeszentrale für politische Bildung: Naturkatastrophe, 2024, <i> <u>  https://www.bpb.
 de/kurz-knapp/lexika/das-junge-politik-lexikon/320847/naturkatastrophe/]()</font></u></i>
