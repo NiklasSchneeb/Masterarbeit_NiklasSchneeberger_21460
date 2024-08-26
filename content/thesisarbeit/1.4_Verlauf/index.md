@@ -1,7 +1,7 @@
 ---
 title: "1.4: Verlauf einer Krise"
 author: "Krisen und Bevölkerungsschutz"
-tags: ["tag1","tag2"]
+tags: ["Bevölkerungsschutz","Naturkatastrophe","Informationsvermittlung"]
 ShowPostNavLinks: true
 ---
 ***
@@ -63,6 +63,8 @@ die Räumung oder Evakuierung aus Wohngebieten veranlasst
 werden oder gar ein Betretungsverbot für lebensgefährliche
 Bereiche verhängt werden. Allerdings sollte der Eingriff in die
 Grundrechte so minimal wie möglich sein. [^1]
+
+![Bildbeschreibung](G4_SzenarioHochwasser_RGB.jpg)
 
 [^1]: <font color="grey">[Vgl. Bußgeldkatalog: Katastrophenfall in Deutschland: Wann wird dieser ausgerufen?,
 2024, <i> <u> https://www.bussgeldkatalog.org/katastrophenfall/]()</font></u></i>

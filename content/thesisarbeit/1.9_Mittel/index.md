@@ -1,7 +1,7 @@
 ---
 title: "1.9: Eingesetzte Mittel im Katastrophenschutz"
 author: "Krisen und Bevölkerungsschutz"
-tags: ["tag1","tag2"]
+tags: ["Bevölkerungsschutz","Lösungsansätze","Informationsvermittlung"]
 ShowPostNavLinks: true
 ---
 ***

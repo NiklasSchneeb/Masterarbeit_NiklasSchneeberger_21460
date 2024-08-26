@@ -1,7 +1,7 @@
 ---
 title: "1.1: Was ist eine Katastrophe?"
 author: "Krisen und Bevölkerungsschutz"
-tags: ["tag1","tag2"]
+tags: ["Bevölkerungsschutz","Katastrophe","Naturkatastrophe","Flucht"]
 ShowPostNavLinks: true
 ---
 ***

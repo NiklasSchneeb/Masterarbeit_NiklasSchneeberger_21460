@@ -1,7 +1,7 @@
 ---
 title: "2.3: Orientierung im Raum – Was sind Leitsysteme?"
 author: "Gestaltung als Hilfsmittel"
-tags: ["tag1","tag2"]
+tags: ["Gestaltung","Leitsystem","Informationsvermittlung","Farbe","Typografie","Piktogramme"]
 ShowPostNavLinks: true
 ---
 ***

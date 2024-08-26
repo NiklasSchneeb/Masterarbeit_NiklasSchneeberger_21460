@@ -1,7 +1,7 @@
 ---
 title: "1.7: Katastrophentourismus"
 author: "Krisen und Bevölkerungsschutz"
-tags: ["tag1","tag2"]
+tags: ["Bevölkerungsschutz","Sichtschutz","Absperrung"]
 ShowPostNavLinks: true
 ---
 ***
@@ -134,7 +134,6 @@ solche Situationen in der Zukunft einzudämmen.
 
 ![Schaulustige](Bild1_Gaffer.jpg)[^7]
 
-***
 [^1]: <font color="grey">[Vgl. Rhein-Zeitung: Nach der Katastrophe folgt der Tourismus der Schamlosen, 2021, <i> <u> https://www.rhein-zeitung.de/region/aus-den-lokalredaktionen/kreis-ahrweiler_artikel]()</font></u></i>
 [^2]: <font color="grey">[Vgl. Stuttgarter-Zeitung: Schaulustige behindern Rettungskräfte im stark betroffenen
 Schuld, 2021, <i> <u> https://www.stuttgarter-zeitung.de/inhalt.unwetter-in-der-eiffelschaulustige-

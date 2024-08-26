@@ -1,7 +1,7 @@
 ---
 title: "3.1: Ein visuelles Erscheinungsbild für den Katastrophenschutz"
 author: "Lösungsansätze"
-tags: ["tag1","tag2"]
+tags: ["Lösungsansätze","visuelles Erscheinungsbild","Informationsvermittlung","Gestaltung","Wiedererkennung","Farbe","Typografie","Piktogramme","Sichtschutz","Absperrung","Naturkatastrophe","Katastrophe","Hochwasser","Flucht","Beispiele"]
 ShowPostNavLinks: true
 ---
 ***

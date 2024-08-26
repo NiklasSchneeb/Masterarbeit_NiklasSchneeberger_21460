@@ -1,7 +1,7 @@
 ---
 title: "3.2: Ein modulares Leit- und Informationssystem für den Krisenfall"
 author: "Lösungsansätze"
-tags: ["tag1","tag2"]
+tags: ["Lösungsansätze","Leitsystem","Informationsvermittlung","modular","Gestaltung","Wiedererkennung","Farbe","Piktogramme","Sichtschutz","Absperrung","Naturkatastrophe","Katastrophe","Flucht","Hochwasser","Beispiele"]
 ShowPostNavLinks: true
 ---
 ***
@@ -308,3 +308,4 @@ Anwendungseinsatz deutlich.
 
 ![Beispielszenario Sammelpunkt](G24_Tafel1_RGB.jpg)
 ![Beispielszenario Notunterkunft](G25_Tafel2_RGB.jpg)
+***

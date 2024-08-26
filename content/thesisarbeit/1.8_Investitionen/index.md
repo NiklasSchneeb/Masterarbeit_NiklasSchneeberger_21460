@@ -1,7 +1,7 @@
 ---
 title: "1.8: Ausgaben und Investitionen in den Katastrophenschutz"
 author: "Krisen und Bevölkerungsschutz"
-tags: ["tag1","tag2"]
+tags: ["Bevölkerungsschutz","Investitionen","Naturkatastrophe","Schäden"]
 ShowPostNavLinks: true
 ---
 ***

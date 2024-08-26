@@ -1,7 +1,7 @@
 ---
 title: "2.1: Visuelles Erscheinungsbild – Olympische Spiele München 1972"
 author: "Gestaltung als Hilfsmittel"
-tags: ["tag1","tag2"]
+tags: ["Gestaltung","visuelles Erscheinungsbild","Farbe","Typografie","Wiedererkennung"]
 ShowPostNavLinks: true
 ---
 ***

@@ -1,6 +1,7 @@
 ---
 title: "3: Lösungsansätze"
 author: "Lösungsansätze"
+tags: ["Lösungsansätze"]
 ShowPostNavLinks: true
 ---
 ***

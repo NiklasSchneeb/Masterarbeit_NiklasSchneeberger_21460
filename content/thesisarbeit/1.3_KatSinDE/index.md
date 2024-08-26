@@ -1,7 +1,7 @@
 ---
 title: "1.3: Bevölkerungsschutz in Deutschland"
 author: "Krisen und Bevölkerungsschutz"
-tags: ["tag1","tag2"]
+tags: ["Bevölkerungsschutz","Zivilschutz","Katastrophenschutz"]
 ShowPostNavLinks: true
 ---
 ***
@@ -103,8 +103,6 @@ Zusammenarbeit der einzelnen Akteure und spezifischen Abläufe
 in krisennahen Situationen genau geprobt und verbessert werden.
 Somit können Entscheidungen im Ernstfall schneller und im
 Sinne der Bevölkerung umgesetzt werden. [^5]
-
-![Bildbeschreibung](G4_SzenarioHochwasser_RGB.jpg)
 
 [^1]: <font color="grey">[Vgl. Bundesministerium des Innern und für Heimat: Bevölkerungsschutz, 2024, <i> <u> https://
 www.bmi.bund.de/DE/themen/bevoelkerungsschutz/bevoelkerungsschutz-node.html]()</font></u></i>

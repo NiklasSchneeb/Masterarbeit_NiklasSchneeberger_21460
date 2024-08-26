@@ -1,7 +1,7 @@
 ---
 title: "1.2: Akteure im Bevölkerungsschutz"
 author: "Krisen und Bevölkerungsschutz"
-tags: ["tag1","tag2"]
+tags: ["Bevölkerungsschutz","Einsatzkräfte"]
 ShowPostNavLinks: true
 ---
 ***

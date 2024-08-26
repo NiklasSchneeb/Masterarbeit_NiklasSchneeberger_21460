@@ -1,7 +1,7 @@
 ---
 title: "2.5: Unterschiede von Leitsystemen in Kultur- und systemrelevanten Einrichtungen"
 author: "Gestaltung als Hilfsmittel"
-tags: ["tag1","tag2"]
+tags: ["Gestaltung","Leitsystem","Informationsvermittlung"]
 ShowPostNavLinks: true
 ---
 ***

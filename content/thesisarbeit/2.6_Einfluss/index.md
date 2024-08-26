@@ -1,7 +1,7 @@
 ---
 title: "2.6: Einfluss unterschiedlicher Begebenheiten"
 author: "Gestaltung als Hilfsmittel"
-tags: ["tag1","tag2"]
+tags: ["Gestaltung","Leitsystem","Naturkatastrophe","Flucht","modular"]
 ShowPostNavLinks: true
 ---
 ***

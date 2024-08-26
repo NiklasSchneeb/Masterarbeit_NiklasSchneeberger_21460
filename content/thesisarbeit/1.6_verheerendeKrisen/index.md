@@ -1,7 +1,7 @@
 ---
 title: "1.6: Die verheerendsten Krisen in Deutschland"
 author: "Krisen und Bevölkerungsschutz"
-tags: ["tag1","tag2"]
+tags: ["Bevölkerungsschutz","Naturkatastrophe","Klimawandel","Hochwasser","Orkan","Hitze","Schäden","Beispiele"]
 ShowPostNavLinks: true
 ---
 ***
@@ -387,8 +387,10 @@ investiert. Im vergangenen Jahr wurde unter der Leitung von
 Karl Lauterbach ein neuer Hitzeschutzplan des Bundesministerium
 für Gesundheit veröffentlicht. Darin soll die Sensibilisieren der
 Bevölkerung gestärkt, die Zahl der Hitzetoten reduziert und
-Warnmaßnahmen verbessert werden. [^23] Hochwasser 2024 in
-Süddeutschland
+Warnmaßnahmen verbessert werden. [^23] 
+
+<br>
+<b> Hochwasser 2024 in Süddeutschland </b>
 
 Ende Mai 2024 steigen durch langanhaltenden Regen die Pegelstände
 vieler Flüsse in Baden-Württemberg und Bayern. Durch

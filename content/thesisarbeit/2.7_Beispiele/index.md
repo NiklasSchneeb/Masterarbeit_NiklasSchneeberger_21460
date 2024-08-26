@@ -1,7 +1,7 @@
 ---
 title: "2.7: Gelungene, lösungsorientierte Leit- und Informationssysteme"
 author: "Gestaltung als Hilfsmittel"
-tags: ["tag1","tag2"]
+tags: ["Gestaltung","Leitsystem","Beispiele","Informationsvermittlung","Wiedererkennung","Farbe","Typografie","Piktogramme","Flucht"]
 ShowPostNavLinks: true
 ---
 ***

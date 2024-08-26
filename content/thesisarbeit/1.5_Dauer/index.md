@@ -1,7 +1,7 @@
 ---
 title: "1.5: Dauer von Krisen"
 author: "Krisen und Bevölkerungsschutz"
-tags: ["tag1","tag2"]
+tags: ["Bevölkerungsschutz","Naturkatastrophe","Klimawandel","Flucht","Zoonosen"]
 ShowPostNavLinks: true
 ---
 ***

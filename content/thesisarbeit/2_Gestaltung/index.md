@@ -1,7 +1,7 @@
 ---
 title: "2: Gestaltung als Hilfsmittel"
 author: "Gestaltung als Hilfsmittel"
-tags: ["tag1","tag2"]
+tags: ["Gestaltung"]
 ShowPostNavLinks: true
 ---
 ***
