@@ -1,6 +1,6 @@
 ---
 title: "Impressum"
-description: ""
+author: "Niklas Schneeberger"
 ---
 <br>
 

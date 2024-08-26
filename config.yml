@@ -54,12 +54,16 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: "Wie schön muss Krise aussehen?
+          title: "Wie schön muss Krise aussehen? –
           <br>
           Ein gestalterischer **Blick** auf die Optimierung im Katastrophenschutz"
-          subtitle: "<br>(nicht final) Gerade in den letzten Jahren hat sich die Notwendigkeit für ein reibungsloses Krisenmanagement gezeigt. Es kann etwa bei der Versorgung von Geflüchteten, beim Umgang mit Pandemien, nach Naturkatastrophen oder in Kriegssituationen Leben retten. Dabei ist eine klare, verständliche Orientierung zwingend notwendig. 
+          subtitle: "<br>
+          Krisen und Naturkatastrophen sind meist ebenso individuell wie unvorhersehbar. Keine Sturmflut ist wie die andere, kein Erdbeben gleicht dessen Vorgänger. Genau wie die Individualität der Katastrophen muss sich auch Gestaltung auf die vorherrschenden Situationen anpassen können und auf alle Eventualitäten vorbereitet sein.
           <br><br>
-          Ich möchte ein barrierearmes Leitsystem erarbeiten, das auf möglichst viele Szenarien anwendbar und in Krisensituationen unkompliziert und schnell einsatzbereit ist."
+          In meiner Arbeit untersuche ich die Auswirkungen und Folgen von Naturkatastrophen und weiteren Großgefahrenlagen unter dem Aspekt des Bevölkerungsschutzes. Anhand der erarbeiteten Problemstellen entwickle ich mit Hilfe von Gestaltungsmechaniken Lösungsansätze, welche das Krisenmanagement nachhaltig stärken, um bei kommenden Krisen umfangreicher vorbereitet zu sein und zielgerichteter Hilfe leisten zu können. Die Themenschwerpunkte Sichtbarkeit, Navigation und Orientierung nehmen dabei eine besondere Rolle ein.
+          <br><br>
+          Aus den Erkenntnissen, die ich durch meine ausführliche Recherche erhalten habe, ist ist diese Abschlussarbeit entstanden. Meine Recherche dient mir bei der Erarbeitung von Lösungsansätzen als Grundlage, auf die ich während der Umsetzung gestützt habe. Bei der Umsetzung der Lösungsansätze habe ich meinen Fokus auf die Einführung eines visuellen Erscheinungsbildes und die Erarbeitung eines modularen Leit- und Informationssystems gelegt, die ich am Ende meiner Arbeit vorgestellt habe.
+          <br>"
           text: Fließtext
           buttons:
             - name: Thesisarbeit

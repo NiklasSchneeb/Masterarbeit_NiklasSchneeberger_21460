@@ -1,6 +1,6 @@
 ---
 title: "Glossar"
-description: ""
+description: "Nützliche Begrifflichkeiten mit Bezug auf den Bevölkerungsschutz"
 ---
 <br>
 <b> Bevölkerungsschutz </b>

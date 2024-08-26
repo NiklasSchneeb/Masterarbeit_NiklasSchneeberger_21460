@@ -173,14 +173,5 @@ Signalviolett Auszeichnungsfarbe des Katastrophenschutzes Ein immer wiederkehren
       <guid>//localhost:1313/thesisarbeit/4_reflexion/</guid>
       <description>Der Bevölkerungsschutz in Deutschland trägt einen fundamentalen Teil zur Resilienz des Landes bei. Ohne ihn wäre im Ernstfall ein schnelles Eingreifen und eine effektive Bekämpfung der Schäden undenkbar. Bei der Prävention, Organisation, Durchführung und Nachbereitung solcher Ernstfälle sind zahlreiche Institutionen und Akteure beteiligt. Die Koordinierung und das Zusammenspiel der einzelnen Organisationen stellt eine Herausforderung dar, die allerdings durch konkret ausgearbeitete Abläufe und Übungen eine große Beständigkeit erlangt hat. In regelmäßigen Abständen werden neue Methoden in die Zusammenarbeit aufgenommen und bestehende Muster weiter verfeinert und geschärft.</description>
     </item>
-    <item>
-      <title>Glossar</title>
-      <link>//localhost:1313/glossar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/glossar/</guid>
-      <description>Bevölkerungsschutz Der Bevölkerungsschutz ist ein Oberbegriff und beinhaltet alle Aufgaben und Maßnahmen des Bundes, der Länder und Kommunen im Zivil- und Katastrophenschutz.
-Zivilschutz Er obliegt allein dem Bund und hat die Aufgabe die Bevölkerung, Wohnungen und Arbeitsstätten durch nichtmilitärische Maßnahmen vor Kriegseinwirkungen zu schützen. Außerdem schützt er zivile Dienststelen, Einrichtungen und Kulturgut. Bei Inkrafttreten des Zivilschutzes greift der Bund auf Einheiten und Ausstattung des Katastrophenschutzes der Länder zurück.
-Katastrophenschutz Der Katastrophenschutz (KatS) obliegt den Bundesländern und ist eine Organisationsform zur Gefahrenabwehr bei Katastrophen.</description>
-    </item>
   </channel>
 </rss>
