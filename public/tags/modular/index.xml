@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>modular on Wie schön muss Krise aussehen?</title>
-    <link>http://localhost:1313/tags/modular.html</link>
+    <link>https://niklasschneeb.github.io/tags/modular/</link>
     <description>Recent content in modular on Wie schön muss Krise aussehen?</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/tags/modular/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://niklasschneeb.github.io/tags/modular/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2.6: Einfluss unterschiedlicher Begebenheiten</title>
-      <link>http://localhost:1313/thesisarbeit/2-6_einfluss.html</link>
+      <link>https://niklasschneeb.github.io/thesisarbeit/2-6_einfluss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thesisarbeit/2-6_einfluss.html</guid>
+      <guid>https://niklasschneeb.github.io/thesisarbeit/2-6_einfluss/</guid>
       <description>Gerade im Außenraum gibt es weitere Einflussfaktoren, welche die Umsetzung eines Leit- und Orientierungssystems beeinflussen können. Außenflächen wie Parks, Freilichtmuseen oder der Einsatz unter freiem Himmel rücken das Thema Witterung in den Fokus. Außerdem sind Themen der Improvisation und Modularität bei unkalkulierbaren Situationen wie Naturkatastrophen oder Flüchtlingsströmen ein weiterer Punkt, der bei der Vorbereitung und Planung solcher Systeme zu bedenken ist.
 Witterung und Lebensdauer Werden Leitsysteme im Außenraum eingesetzt, ist auf eine gute Wetterbeständigkeit zu achten.</description>
     </item>
     <item>
       <title>3.2: Ein modulares Leit- und Informationssystem für den Krisenfall</title>
-      <link>http://localhost:1313/thesisarbeit/3-2_leitsystem.html</link>
+      <link>https://niklasschneeb.github.io/thesisarbeit/3-2_leitsystem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thesisarbeit/3-2_leitsystem.html</guid>
+      <guid>https://niklasschneeb.github.io/thesisarbeit/3-2_leitsystem/</guid>
       <description>Leit- und Informationssysteme erfüllen wichtige Aufgaben der Informationsvermittlung. Sie leiten Menschen an unübersichtlichen Orten ans Ziel und geben ihnen an wichtigen Abzweigungen und Weggabelungen weitere Hinweise, um das gewünschte Ziel zu erreichen. Außerdem sind die meisten Leitsysteme so konzipiert, dass sie zum jeweiligen Zeitpunkt nur relevante Informationen bereitstellen. Betritt man beispielsweise einen Park und wird am Anfang der Parkanlage durch einen Lageplan auf eine Burgruine aufmerksam, findet man auf den Wegweisern schnell die ausgeschilderte Ruine und läuft los.</description>
     </item>
   </channel>

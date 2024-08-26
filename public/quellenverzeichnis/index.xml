@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Quellenverzeichnis on Wie schön muss Krise aussehen?</title>
-    <link>http://localhost:1313/quellenverzeichnis/</link>
+    <link>https://niklasschneeb.github.io/quellenverzeichnis/</link>
     <description>Recent content in Quellenverzeichnis on Wie schön muss Krise aussehen?</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/quellenverzeichnis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://niklasschneeb.github.io/quellenverzeichnis/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
