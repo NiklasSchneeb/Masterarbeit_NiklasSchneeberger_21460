@@ -20,7 +20,7 @@ menu:
         - name: Tags
           url: /tags/
           weight: 3 
-        - name: Glosar
+        - name: Glossar
           url: /glossar/
           weight: 4       
         - name: Quellenverzeichnis
