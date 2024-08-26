@@ -14,10 +14,10 @@ taxonomies:
 menu:
     main:
         - name: Startseite
-          url: /
+          url: /index.html
           weight: 1
         - name: Thesisarbeit
-          url: /thesisarbeit/
+          url: /thesisarbeit.html
           weight: 2
         - name: Tags
           url: /tags.html
@@ -26,10 +26,10 @@ menu:
           url: /glossar.html
           weight: 4       
         - name: Quellenverzeichnis
-          url: /quellenverzeichnis/
+          url: /quellenverzeichnis.html
           weight: 5
         - name: Impressum
-          url: /impressum/
+          url: /impressum.html
           weight: 6
 
 params:
