@@ -49,7 +49,7 @@ params:
     ShowAllPagesInArchive: false
     MainSections: ["thesisarbeit","quellenverzeichnis","impressum"]
     ShowToc: false
-    disableScrollToTop: true
+    disableScrollToTop: false
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
