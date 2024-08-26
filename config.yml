@@ -68,15 +68,15 @@ params:
           text: Fließtext
           buttons:
             - name: Thesisarbeit
-              url: /thesisarbeit/
+              url: "/thesisarbeit/"
             - name: Tags
-              url: /tags/
+              url: "/tags/"
             - name: Glossar
-              url: /glossar/
+              url: "/glossar/"
             - name: Quellenverzeichnis
-              url: /quellenverzeichnis/
+              url: "/quellenverzeichnis/"
             - name: Impressum
-              url: /impressum/
+              url: "/impressum/"
 
     assets:
         disableScrollBarStyle: true
