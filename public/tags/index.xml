@@ -50,13 +50,6 @@
       <description></description>
     </item>
     <item>
-      <title>Farben</title>
-      <link>//localhost:1313/tags/farben/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/farben/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Flucht</title>
       <link>//localhost:1313/tags/flucht/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -148,31 +141,10 @@
       <description></description>
     </item>
     <item>
-      <title>Naturkatastrophen</title>
-      <link>//localhost:1313/tags/naturkatastrophen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/naturkatastrophen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Naturkatatrophe</title>
-      <link>//localhost:1313/tags/naturkatatrophe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/naturkatatrophe/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Orkan</title>
       <link>//localhost:1313/tags/orkan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/orkan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Piktograme</title>
-      <link>//localhost:1313/tags/piktograme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/piktograme/</guid>
       <description></description>
     </item>
     <item>
