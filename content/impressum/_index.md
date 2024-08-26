@@ -1,6 +1,5 @@
 ---
 title: "Impressum"
-author: "Niklas Schneeberger"
 ---
 <br>
 
@@ -20,4 +19,4 @@ Prof. Christina Poth
 
 <br>
 
-[<u>**Eidesstattliche Erklärung**</u>](/250824_EidesstattlicheErklärung.pdf)
++ [<u>**Eidesstattliche Erklärung**</b>](250824_EidesstattlicheErklärung.pdf)
